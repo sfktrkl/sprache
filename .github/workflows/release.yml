@@ -1,0 +1,72 @@
+
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: npm install, build, and test
+        run: npm install && npm run test
+
+      - name: Setup java
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'adopt'
+          java-version: '8'
+
+      - name: Install turtle-cli, expo-cli
+        run: npm install -g turtle-cli expo-cli cross-env
+
+      - name: Build for android
+        env:
+          EXPO_USERNAME: ${{ secrets.EXPO_USERNAME }}
+          EXPO_PASSWORD: ${{ secrets.EXPO_PASSWORD }}
+          EXPO_ANDROID_KEYSTORE_BASE64: ${{ secrets.EXPO_ANDROID_KEYSTORE_BASE64 }}
+          EXPO_ANDROID_KEYSTORE_ALIAS: ${{ secrets.EXPO_ANDROID_KEYSTORE_ALIAS }}
+          EXPO_ANDROID_KEYSTORE_PASSWORD: ${{ secrets.EXPO_ANDROID_KEYSTORE_PASSWORD }}
+          EXPO_ANDROID_KEY_PASSWORD: ${{ secrets.EXPO_ANDROID_KEY_PASSWORD }}
+        run: |
+          echo "${{ secrets.EXPO_ANDROID_KEYSTORE_BASE64 }}" | base64 --decode > keystore.jks
+          expo login -u ${{ env.EXPO_USERNAME }} -p ${{ env.EXPO_PASSWORD }} --non-interactive
+          turtle setup:android --sdk-version 42.0.1
+          cross-env EXPO_ANDROID_KEYSTORE_PASSWORD=${{ env.EXPO_ANDROID_KEYSTORE_PASSWORD }} EXPO_ANDROID_KEY_PASSWORD=${{ env.EXPO_ANDROID_KEY_PASSWORD }} turtle build:android --keystore-path ./keystore.jks --keystore-alias ${{ env.EXPO_ANDROID_KEYSTORE_ALIAS }} --type apk -o ./sprache.apk
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: asset
+          path: sprache.apk
+
+      - name: Changelog
+        id: Changelog
+        run: |
+          tag1=$(git tag --sort version:refname | tail -n 2 | head -n 1)
+          tag2=$(git tag --sort version:refname | tail -n 1)
+          changelog=$(git log --pretty=oneline $tag1..$tag2)
+          changelog="${changelog//'%'/'%25'}"
+          changelog="${changelog//$'\n'/'%0A' - }"
+          changelog=" - ${changelog//$'\r'/'%0D'}"
+          echo "::set-output name=changelog::$changelog"
+
+      - name: Create Release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: sprache.apk
+          asset_name: sprache.apk
+          tag: ${{ github.ref }}
+          overwrite: true
+          body: |
+            Changes in this release:
+            ${{ steps.Changelog.outputs.changelog }}
