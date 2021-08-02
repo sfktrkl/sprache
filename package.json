@@ -18,7 +18,7 @@
     "jest-coverage-badges": "^1.1.2",
     "jest-expo": "^42.1.0",
     "react": "16.14.0",
-    "react-dom": "16.13.1",
+    "react-dom": "16.14.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
     "react-native-web": "~0.14.13",
     "react-test-renderer": "^17.0.2",
