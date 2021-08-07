@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "sprache",
+    "name": "Sprache",
     "slug": "sprache",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Learn a language, practice and memorize vocabulary with flashcards.",
+    "githubUrl": "https://github.com/sfktrkl/sprache"
   }
 }
