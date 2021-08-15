@@ -11,7 +11,7 @@
     "test:ci": "jest --collect-coverage"
   },
   "dependencies": {
-    "@types/jest": "^26.0.24",
+    "@types/jest": "^27.0.1",
     "@types/react-test-renderer": "^17.0.1",
     "expo": "~42.0.1",
     "expo-status-bar": "~1.0.4",
