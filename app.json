@@ -19,6 +19,7 @@
     "ios": {
       "supportsTablet": true
     },
+    "androidPackage": "sprache",
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
