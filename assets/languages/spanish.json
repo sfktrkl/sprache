@@ -1,0 +1,5002 @@
+[
+  {
+    "key": 1,
+    "word": "como",
+    "translation": "as"
+  },
+  {
+    "key": 2,
+    "word": "I",
+    "translation": "I"
+  },
+  {
+    "key": 3,
+    "word": "su",
+    "translation": "his"
+  },
+  {
+    "key": 4,
+    "word": "que",
+    "translation": "that"
+  },
+  {
+    "key": 5,
+    "word": "él",
+    "translation": "he"
+  },
+  {
+    "key": 6,
+    "word": "era",
+    "translation": "was"
+  },
+  {
+    "key": 7,
+    "word": "para",
+    "translation": "for"
+  },
+  {
+    "key": 8,
+    "word": "en",
+    "translation": "on"
+  },
+  {
+    "key": 9,
+    "word": "son",
+    "translation": "are"
+  },
+  {
+    "key": 10,
+    "word": "con",
+    "translation": "with"
+  },
+  {
+    "key": 11,
+    "word": "ellos",
+    "translation": "they"
+  },
+  {
+    "key": 12,
+    "word": "ser",
+    "translation": "be"
+  },
+  {
+    "key": 13,
+    "word": "en",
+    "translation": "at"
+  },
+  {
+    "key": 14,
+    "word": "uno",
+    "translation": "one"
+  },
+  {
+    "key": 15,
+    "word": "tener",
+    "translation": "have"
+  },
+  {
+    "key": 16,
+    "word": "este",
+    "translation": "this"
+  },
+  {
+    "key": 17,
+    "word": "desde",
+    "translation": "from"
+  },
+  {
+    "key": 18,
+    "word": "por",
+    "translation": "by"
+  },
+  {
+    "key": 19,
+    "word": "caliente",
+    "translation": "hot"
+  },
+  {
+    "key": 20,
+    "word": "palabra",
+    "translation": "word"
+  },
+  {
+    "key": 21,
+    "word": "pero",
+    "translation": "but"
+  },
+  {
+    "key": 22,
+    "word": "qué",
+    "translation": "what"
+  },
+  {
+    "key": 23,
+    "word": "algunos",
+    "translation": "some"
+  },
+  {
+    "key": 24,
+    "word": "es",
+    "translation": "is"
+  },
+  {
+    "key": 25,
+    "word": "lo",
+    "translation": "it"
+  },
+  {
+    "key": 26,
+    "word": "usted",
+    "translation": "you"
+  },
+  {
+    "key": 27,
+    "word": "o",
+    "translation": "or"
+  },
+  {
+    "key": 28,
+    "word": "tenido",
+    "translation": "had"
+  },
+  {
+    "key": 29,
+    "word": "la",
+    "translation": "the"
+  },
+  {
+    "key": 30,
+    "word": "de",
+    "translation": "of"
+  },
+  {
+    "key": 31,
+    "word": "a",
+    "translation": "to"
+  },
+  {
+    "key": 32,
+    "word": "y",
+    "translation": "and"
+  },
+  {
+    "key": 33,
+    "word": "un",
+    "translation": "a"
+  },
+  {
+    "key": 34,
+    "word": "en",
+    "translation": "in"
+  },
+  {
+    "key": 35,
+    "word": "nos",
+    "translation": "we"
+  },
+  {
+    "key": 36,
+    "word": "lata",
+    "translation": "can"
+  },
+  {
+    "key": 37,
+    "word": "fuera",
+    "translation": "out"
+  },
+  {
+    "key": 38,
+    "word": "otros",
+    "translation": "other"
+  },
+  {
+    "key": 39,
+    "word": "eran",
+    "translation": "were"
+  },
+  {
+    "key": 40,
+    "word": "que",
+    "translation": "which"
+  },
+  {
+    "key": 41,
+    "word": "hacer",
+    "translation": "do"
+  },
+  {
+    "key": 42,
+    "word": "su",
+    "translation": "their"
+  },
+  {
+    "key": 43,
+    "word": "tiempo",
+    "translation": "time"
+  },
+  {
+    "key": 44,
+    "word": "si",
+    "translation": "if"
+  },
+  {
+    "key": 45,
+    "word": "lo hará",
+    "translation": "will"
+  },
+  {
+    "key": 46,
+    "word": "cómo",
+    "translation": "how"
+  },
+  {
+    "key": 47,
+    "word": "dicho",
+    "translation": "said"
+  },
+  {
+    "key": 48,
+    "word": "un",
+    "translation": "an"
+  },
+  {
+    "key": 49,
+    "word": "cada",
+    "translation": "each"
+  },
+  {
+    "key": 50,
+    "word": "decir",
+    "translation": "tell"
+  },
+  {
+    "key": 51,
+    "word": "hace",
+    "translation": "does"
+  },
+  {
+    "key": 52,
+    "word": "conjunto",
+    "translation": "set"
+  },
+  {
+    "key": 53,
+    "word": "tres",
+    "translation": "three"
+  },
+  {
+    "key": 54,
+    "word": "querer",
+    "translation": "want"
+  },
+  {
+    "key": 55,
+    "word": "aire",
+    "translation": "air"
+  },
+  {
+    "key": 56,
+    "word": "así",
+    "translation": "well"
+  },
+  {
+    "key": 57,
+    "word": "también",
+    "translation": "also"
+  },
+  {
+    "key": 58,
+    "word": "jugar",
+    "translation": "play"
+  },
+  {
+    "key": 59,
+    "word": "pequeño",
+    "translation": "small"
+  },
+  {
+    "key": 60,
+    "word": "fin",
+    "translation": "end"
+  },
+  {
+    "key": 61,
+    "word": "poner",
+    "translation": "put"
+  },
+  {
+    "key": 62,
+    "word": "casa",
+    "translation": "home"
+  },
+  {
+    "key": 63,
+    "word": "leer",
+    "translation": "read"
+  },
+  {
+    "key": 64,
+    "word": "mano",
+    "translation": "hand"
+  },
+  {
+    "key": 65,
+    "word": "puerto",
+    "translation": "port"
+  },
+  {
+    "key": 66,
+    "word": "grande",
+    "translation": "large"
+  },
+  {
+    "key": 67,
+    "word": "deletrear",
+    "translation": "spell"
+  },
+  {
+    "key": 68,
+    "word": "añadir",
+    "translation": "add"
+  },
+  {
+    "key": 69,
+    "word": "incluso",
+    "translation": "even"
+  },
+  {
+    "key": 70,
+    "word": "tierra",
+    "translation": "land"
+  },
+  {
+    "key": 71,
+    "word": "aquí",
+    "translation": "here"
+  },
+  {
+    "key": 72,
+    "word": "debe",
+    "translation": "must"
+  },
+  {
+    "key": 73,
+    "word": "grande",
+    "translation": "big"
+  },
+  {
+    "key": 74,
+    "word": "alto",
+    "translation": "high"
+  },
+  {
+    "key": 75,
+    "word": "tal",
+    "translation": "such"
+  },
+  {
+    "key": 76,
+    "word": "siga",
+    "translation": "follow"
+  },
+  {
+    "key": 77,
+    "word": "acto",
+    "translation": "act"
+  },
+  {
+    "key": 78,
+    "word": "por qué",
+    "translation": "why"
+  },
+  {
+    "key": 79,
+    "word": "preguntar",
+    "translation": "ask"
+  },
+  {
+    "key": 80,
+    "word": "hombres",
+    "translation": "men"
+  },
+  {
+    "key": 81,
+    "word": "cambio",
+    "translation": "change"
+  },
+  {
+    "key": 82,
+    "word": "se fue",
+    "translation": "went"
+  },
+  {
+    "key": 83,
+    "word": "luz",
+    "translation": "light"
+  },
+  {
+    "key": 84,
+    "word": "tipo",
+    "translation": "kind"
+  },
+  {
+    "key": 85,
+    "word": "fuera",
+    "translation": "off"
+  },
+  {
+    "key": 86,
+    "word": "necesitará",
+    "translation": "need"
+  },
+  {
+    "key": 87,
+    "word": "casa",
+    "translation": "house"
+  },
+  {
+    "key": 88,
+    "word": "imagen",
+    "translation": "picture"
+  },
+  {
+    "key": 89,
+    "word": "tratar",
+    "translation": "try"
+  },
+  {
+    "key": 90,
+    "word": "nosotros",
+    "translation": "us"
+  },
+  {
+    "key": 91,
+    "word": "de nuevo",
+    "translation": "again"
+  },
+  {
+    "key": 92,
+    "word": "animal",
+    "translation": "animal"
+  },
+  {
+    "key": 93,
+    "word": "punto",
+    "translation": "point"
+  },
+  {
+    "key": 94,
+    "word": "madre",
+    "translation": "mother"
+  },
+  {
+    "key": 95,
+    "word": "mundo",
+    "translation": "world"
+  },
+  {
+    "key": 96,
+    "word": "cerca",
+    "translation": "near"
+  },
+  {
+    "key": 97,
+    "word": "construir",
+    "translation": "build"
+  },
+  {
+    "key": 98,
+    "word": "auto",
+    "translation": "self"
+  },
+  {
+    "key": 99,
+    "word": "tierra",
+    "translation": "earth"
+  },
+  {
+    "key": 100,
+    "word": "padre",
+    "translation": "father"
+  },
+  {
+    "key": 101,
+    "word": "cualquier",
+    "translation": "any"
+  },
+  {
+    "key": 102,
+    "word": "nuevo",
+    "translation": "new"
+  },
+  {
+    "key": 103,
+    "word": "trabajo",
+    "translation": "work"
+  },
+  {
+    "key": 104,
+    "word": "parte",
+    "translation": "part"
+  },
+  {
+    "key": 105,
+    "word": "tomar",
+    "translation": "take"
+  },
+  {
+    "key": 106,
+    "word": "conseguir",
+    "translation": "get"
+  },
+  {
+    "key": 107,
+    "word": "lugar",
+    "translation": "place"
+  },
+  {
+    "key": 108,
+    "word": "hecho",
+    "translation": "made"
+  },
+  {
+    "key": 109,
+    "word": "vivir",
+    "translation": "live"
+  },
+  {
+    "key": 110,
+    "word": "donde",
+    "translation": "where"
+  },
+  {
+    "key": 111,
+    "word": "después",
+    "translation": "after"
+  },
+  {
+    "key": 112,
+    "word": "espalda",
+    "translation": "back"
+  },
+  {
+    "key": 113,
+    "word": "poco",
+    "translation": "little"
+  },
+  {
+    "key": 114,
+    "word": "sólo",
+    "translation": "only"
+  },
+  {
+    "key": 115,
+    "word": "ronda",
+    "translation": "round"
+  },
+  {
+    "key": 116,
+    "word": "hombre",
+    "translation": "man"
+  },
+  {
+    "key": 117,
+    "word": "años",
+    "translation": "year"
+  },
+  {
+    "key": 118,
+    "word": "vino",
+    "translation": "came"
+  },
+  {
+    "key": 119,
+    "word": "show",
+    "translation": "show"
+  },
+  {
+    "key": 120,
+    "word": "cada",
+    "translation": "every"
+  },
+  {
+    "key": 121,
+    "word": "buena",
+    "translation": "good"
+  },
+  {
+    "key": 122,
+    "word": "me",
+    "translation": "me"
+  },
+  {
+    "key": 123,
+    "word": "dar",
+    "translation": "give"
+  },
+  {
+    "key": 124,
+    "word": "nuestro",
+    "translation": "our"
+  },
+  {
+    "key": 125,
+    "word": "bajo",
+    "translation": "under"
+  },
+  {
+    "key": 126,
+    "word": "nombre",
+    "translation": "name"
+  },
+  {
+    "key": 127,
+    "word": "muy",
+    "translation": "very"
+  },
+  {
+    "key": 128,
+    "word": "a través de",
+    "translation": "through"
+  },
+  {
+    "key": 129,
+    "word": "sólo",
+    "translation": "just"
+  },
+  {
+    "key": 130,
+    "word": "forma",
+    "translation": "form"
+  },
+  {
+    "key": 131,
+    "word": "frase",
+    "translation": "sentence"
+  },
+  {
+    "key": 132,
+    "word": "gran",
+    "translation": "great"
+  },
+  {
+    "key": 133,
+    "word": "pensar",
+    "translation": "think"
+  },
+  {
+    "key": 134,
+    "word": "decir",
+    "translation": "say"
+  },
+  {
+    "key": 135,
+    "word": "ayudar",
+    "translation": "help"
+  },
+  {
+    "key": 136,
+    "word": "bajo",
+    "translation": "low"
+  },
+  {
+    "key": 137,
+    "word": "línea",
+    "translation": "line"
+  },
+  {
+    "key": 138,
+    "word": "ser distinto",
+    "translation": "differ"
+  },
+  {
+    "key": 139,
+    "word": "a su vez,",
+    "translation": "turn"
+  },
+  {
+    "key": 140,
+    "word": "causa",
+    "translation": "cause"
+  },
+  {
+    "key": 141,
+    "word": "mucho",
+    "translation": "much"
+  },
+  {
+    "key": 142,
+    "word": "significará",
+    "translation": "mean"
+  },
+  {
+    "key": 143,
+    "word": "antes",
+    "translation": "before"
+  },
+  {
+    "key": 144,
+    "word": "movimiento",
+    "translation": "move"
+  },
+  {
+    "key": 145,
+    "word": "derecho",
+    "translation": "right"
+  },
+  {
+    "key": 146,
+    "word": "niño",
+    "translation": "boy"
+  },
+  {
+    "key": 147,
+    "word": "viejo",
+    "translation": "old"
+  },
+  {
+    "key": 148,
+    "word": "demasiado",
+    "translation": "too"
+  },
+  {
+    "key": 149,
+    "word": "misma",
+    "translation": "same"
+  },
+  {
+    "key": 150,
+    "word": "ella",
+    "translation": "she"
+  },
+  {
+    "key": 151,
+    "word": "todo",
+    "translation": "all"
+  },
+  {
+    "key": 152,
+    "word": "hay",
+    "translation": "there"
+  },
+  {
+    "key": 153,
+    "word": "cuando",
+    "translation": "when"
+  },
+  {
+    "key": 154,
+    "word": "hasta",
+    "translation": "up"
+  },
+  {
+    "key": 155,
+    "word": "uso",
+    "translation": "use"
+  },
+  {
+    "key": 156,
+    "word": "su",
+    "translation": "your"
+  },
+  {
+    "key": 157,
+    "word": "camino",
+    "translation": "way"
+  },
+  {
+    "key": 158,
+    "word": "acerca",
+    "translation": "about"
+  },
+  {
+    "key": 159,
+    "word": "muchos",
+    "translation": "many"
+  },
+  {
+    "key": 160,
+    "word": "entonces",
+    "translation": "then"
+  },
+  {
+    "key": 161,
+    "word": "ellos",
+    "translation": "them"
+  },
+  {
+    "key": 162,
+    "word": "escribir",
+    "translation": "write"
+  },
+  {
+    "key": 163,
+    "word": "haría",
+    "translation": "would"
+  },
+  {
+    "key": 164,
+    "word": "como",
+    "translation": "like"
+  },
+  {
+    "key": 165,
+    "word": "así",
+    "translation": "so"
+  },
+  {
+    "key": 166,
+    "word": "éstos",
+    "translation": "these"
+  },
+  {
+    "key": 167,
+    "word": "su",
+    "translation": "her"
+  },
+  {
+    "key": 168,
+    "word": "largo",
+    "translation": "long"
+  },
+  {
+    "key": 169,
+    "word": "hacer",
+    "translation": "make"
+  },
+  {
+    "key": 170,
+    "word": "cosa",
+    "translation": "thing"
+  },
+  {
+    "key": 171,
+    "word": "ver",
+    "translation": "see"
+  },
+  {
+    "key": 172,
+    "word": "él",
+    "translation": "him"
+  },
+  {
+    "key": 173,
+    "word": "dos",
+    "translation": "two"
+  },
+  {
+    "key": 174,
+    "word": "tiene",
+    "translation": "has"
+  },
+  {
+    "key": 175,
+    "word": "buscar",
+    "translation": "look"
+  },
+  {
+    "key": 176,
+    "word": "más",
+    "translation": "more"
+  },
+  {
+    "key": 177,
+    "word": "día",
+    "translation": "day"
+  },
+  {
+    "key": 178,
+    "word": "podía",
+    "translation": "could"
+  },
+  {
+    "key": 179,
+    "word": "ir",
+    "translation": "go"
+  },
+  {
+    "key": 180,
+    "word": "venir",
+    "translation": "come"
+  },
+  {
+    "key": 181,
+    "word": "hizo",
+    "translation": "did"
+  },
+  {
+    "key": 182,
+    "word": "número",
+    "translation": "key"
+  },
+  {
+    "key": 183,
+    "word": "sonar",
+    "translation": "sound"
+  },
+  {
+    "key": 184,
+    "word": "no",
+    "translation": "no"
+  },
+  {
+    "key": 185,
+    "word": "más",
+    "translation": "most"
+  },
+  {
+    "key": 186,
+    "word": "personas",
+    "translation": "people"
+  },
+  {
+    "key": 187,
+    "word": "mi",
+    "translation": "my"
+  },
+  {
+    "key": 188,
+    "word": "sobre",
+    "translation": "over"
+  },
+  {
+    "key": 189,
+    "word": "saber",
+    "translation": "know"
+  },
+  {
+    "key": 190,
+    "word": "agua",
+    "translation": "water"
+  },
+  {
+    "key": 191,
+    "word": "que",
+    "translation": "than"
+  },
+  {
+    "key": 192,
+    "word": "llamada",
+    "translation": "call"
+  },
+  {
+    "key": 193,
+    "word": "primero",
+    "translation": "first"
+  },
+  {
+    "key": 194,
+    "word": "que",
+    "translation": "who"
+  },
+  {
+    "key": 195,
+    "word": "puede",
+    "translation": "may"
+  },
+  {
+    "key": 196,
+    "word": "abajo",
+    "translation": "down"
+  },
+  {
+    "key": 197,
+    "word": "lado",
+    "translation": "side"
+  },
+  {
+    "key": 198,
+    "word": "estado",
+    "translation": "been"
+  },
+  {
+    "key": 199,
+    "word": "ahora",
+    "translation": "now"
+  },
+  {
+    "key": 200,
+    "word": "encontrar",
+    "translation": "find"
+  },
+  {
+    "key": 201,
+    "word": "cabeza",
+    "translation": "head"
+  },
+  {
+    "key": 202,
+    "word": "de pie",
+    "translation": "stand"
+  },
+  {
+    "key": 203,
+    "word": "propio",
+    "translation": "own"
+  },
+  {
+    "key": 204,
+    "word": "página",
+    "translation": "page"
+  },
+  {
+    "key": 205,
+    "word": "debería",
+    "translation": "should"
+  },
+  {
+    "key": 206,
+    "word": "país",
+    "translation": "country"
+  },
+  {
+    "key": 207,
+    "word": "encontrado",
+    "translation": "found"
+  },
+  {
+    "key": 208,
+    "word": "respuesta",
+    "translation": "answer"
+  },
+  {
+    "key": 209,
+    "word": "escuela",
+    "translation": "school"
+  },
+  {
+    "key": 210,
+    "word": "crecer",
+    "translation": "grow"
+  },
+  {
+    "key": 211,
+    "word": "estudio",
+    "translation": "study"
+  },
+  {
+    "key": 212,
+    "word": "todavía",
+    "translation": "still"
+  },
+  {
+    "key": 213,
+    "word": "aprender",
+    "translation": "learn"
+  },
+  {
+    "key": 214,
+    "word": "planta",
+    "translation": "plant"
+  },
+  {
+    "key": 215,
+    "word": "cubierta",
+    "translation": "cover"
+  },
+  {
+    "key": 216,
+    "word": "alimentos",
+    "translation": "food"
+  },
+  {
+    "key": 217,
+    "word": "sol",
+    "translation": "sun"
+  },
+  {
+    "key": 218,
+    "word": "cuatro",
+    "translation": "four"
+  },
+  {
+    "key": 219,
+    "word": "entre",
+    "translation": "between"
+  },
+  {
+    "key": 220,
+    "word": "estado",
+    "translation": "state"
+  },
+  {
+    "key": 221,
+    "word": "mantener",
+    "translation": "keep"
+  },
+  {
+    "key": 222,
+    "word": "ojo",
+    "translation": "eye"
+  },
+  {
+    "key": 223,
+    "word": "nunca",
+    "translation": "never"
+  },
+  {
+    "key": 224,
+    "word": "último",
+    "translation": "last"
+  },
+  {
+    "key": 225,
+    "word": "dejar",
+    "translation": "let"
+  },
+  {
+    "key": 226,
+    "word": "pensado",
+    "translation": "thought"
+  },
+  {
+    "key": 227,
+    "word": "ciudad",
+    "translation": "city"
+  },
+  {
+    "key": 228,
+    "word": "árbol",
+    "translation": "tree"
+  },
+  {
+    "key": 229,
+    "word": "cruzar",
+    "translation": "cross"
+  },
+  {
+    "key": 230,
+    "word": "granja",
+    "translation": "farm"
+  },
+  {
+    "key": 231,
+    "word": "duro",
+    "translation": "hard"
+  },
+  {
+    "key": 232,
+    "word": "inicio",
+    "translation": "start"
+  },
+  {
+    "key": 233,
+    "word": "podría",
+    "translation": "might"
+  },
+  {
+    "key": 234,
+    "word": "historia",
+    "translation": "story"
+  },
+  {
+    "key": 235,
+    "word": "sierra",
+    "translation": "saw"
+  },
+  {
+    "key": 236,
+    "word": "ahora",
+    "translation": "far"
+  },
+  {
+    "key": 237,
+    "word": "mar",
+    "translation": "sea"
+  },
+  {
+    "key": 238,
+    "word": "dibujar",
+    "translation": "draw"
+  },
+  {
+    "key": 239,
+    "word": "izquierda",
+    "translation": "left"
+  },
+  {
+    "key": 240,
+    "word": "tarde",
+    "translation": "late"
+  },
+  {
+    "key": 241,
+    "word": "ejecutar",
+    "translation": "run"
+  },
+  {
+    "key": 242,
+    "word": "no",
+    "translation": "don’t"
+  },
+  {
+    "key": 243,
+    "word": "mientras",
+    "translation": "while"
+  },
+  {
+    "key": 244,
+    "word": "prensa",
+    "translation": "press"
+  },
+  {
+    "key": 245,
+    "word": "Cerrar",
+    "translation": "close"
+  },
+  {
+    "key": 246,
+    "word": "noche",
+    "translation": "night"
+  },
+  {
+    "key": 247,
+    "word": "reales",
+    "translation": "real"
+  },
+  {
+    "key": 248,
+    "word": "vida",
+    "translation": "life"
+  },
+  {
+    "key": 249,
+    "word": "pocos",
+    "translation": "few"
+  },
+  {
+    "key": 250,
+    "word": "norte",
+    "translation": "north"
+  },
+  {
+    "key": 251,
+    "word": "libro",
+    "translation": "book"
+  },
+  {
+    "key": 252,
+    "word": "llevar",
+    "translation": "carry"
+  },
+  {
+    "key": 253,
+    "word": "tomó",
+    "translation": "took"
+  },
+  {
+    "key": 254,
+    "word": "ciencia",
+    "translation": "science"
+  },
+  {
+    "key": 255,
+    "word": "comer",
+    "translation": "eat"
+  },
+  {
+    "key": 256,
+    "word": "habitación",
+    "translation": "room"
+  },
+  {
+    "key": 257,
+    "word": "amigo",
+    "translation": "friend"
+  },
+  {
+    "key": 258,
+    "word": "comenzó",
+    "translation": "began"
+  },
+  {
+    "key": 259,
+    "word": "gusta",
+    "translation": "idea"
+  },
+  {
+    "key": 260,
+    "word": "peces",
+    "translation": "fish"
+  },
+  {
+    "key": 261,
+    "word": "montaña",
+    "translation": "mountain"
+  },
+  {
+    "key": 262,
+    "word": "Deténgase",
+    "translation": "stop"
+  },
+  {
+    "key": 263,
+    "word": "una vez",
+    "translation": "once"
+  },
+  {
+    "key": 264,
+    "word": "base de",
+    "translation": "base"
+  },
+  {
+    "key": 265,
+    "word": "escuchar",
+    "translation": "hear"
+  },
+  {
+    "key": 266,
+    "word": "caballo",
+    "translation": "horse"
+  },
+  {
+    "key": 267,
+    "word": "cortada",
+    "translation": "cut"
+  },
+  {
+    "key": 268,
+    "word": "seguro",
+    "translation": "sure"
+  },
+  {
+    "key": 269,
+    "word": "ver",
+    "translation": "watch"
+  },
+  {
+    "key": 270,
+    "word": "colores",
+    "translation": "color"
+  },
+  {
+    "key": 271,
+    "word": "cara",
+    "translation": "face"
+  },
+  {
+    "key": 272,
+    "word": "madera",
+    "translation": "wood"
+  },
+  {
+    "key": 273,
+    "word": "principal",
+    "translation": "main"
+  },
+  {
+    "key": 274,
+    "word": "abierta",
+    "translation": "open"
+  },
+  {
+    "key": 275,
+    "word": "parecer",
+    "translation": "seem"
+  },
+  {
+    "key": 276,
+    "word": "juntos",
+    "translation": "together"
+  },
+  {
+    "key": 277,
+    "word": "próximo",
+    "translation": "next"
+  },
+  {
+    "key": 278,
+    "word": "blanco",
+    "translation": "white"
+  },
+  {
+    "key": 279,
+    "word": "niños",
+    "translation": "children"
+  },
+  {
+    "key": 280,
+    "word": "comenzar",
+    "translation": "begin"
+  },
+  {
+    "key": 281,
+    "word": "conseguido",
+    "translation": "got"
+  },
+  {
+    "key": 282,
+    "word": "caminar",
+    "translation": "walk"
+  },
+  {
+    "key": 283,
+    "word": "ejemplo",
+    "translation": "example"
+  },
+  {
+    "key": 284,
+    "word": "aliviar",
+    "translation": "ease"
+  },
+  {
+    "key": 285,
+    "word": "papel",
+    "translation": "paper"
+  },
+  {
+    "key": 286,
+    "word": "grupo",
+    "translation": "group"
+  },
+  {
+    "key": 287,
+    "word": "siempre",
+    "translation": "always"
+  },
+  {
+    "key": 288,
+    "word": "música",
+    "translation": "music"
+  },
+  {
+    "key": 289,
+    "word": "los",
+    "translation": "those"
+  },
+  {
+    "key": 290,
+    "word": "ambos",
+    "translation": "both"
+  },
+  {
+    "key": 291,
+    "word": "marca",
+    "translation": "mark"
+  },
+  {
+    "key": 292,
+    "word": "menudo",
+    "translation": "often"
+  },
+  {
+    "key": 293,
+    "word": "carta",
+    "translation": "letter"
+  },
+  {
+    "key": 294,
+    "word": "hasta",
+    "translation": "until"
+  },
+  {
+    "key": 295,
+    "word": "milla",
+    "translation": "mile"
+  },
+  {
+    "key": 296,
+    "word": "río",
+    "translation": "river"
+  },
+  {
+    "key": 297,
+    "word": "coche",
+    "translation": "car"
+  },
+  {
+    "key": 298,
+    "word": "pies",
+    "translation": "feet"
+  },
+  {
+    "key": 299,
+    "word": "cuidado",
+    "translation": "care"
+  },
+  {
+    "key": 300,
+    "word": "segundo",
+    "translation": "second"
+  },
+  {
+    "key": 301,
+    "word": "suficiente",
+    "translation": "enough"
+  },
+  {
+    "key": 302,
+    "word": "llano",
+    "translation": "plain"
+  },
+  {
+    "key": 303,
+    "word": "chica",
+    "translation": "girl"
+  },
+  {
+    "key": 304,
+    "word": "habitual",
+    "translation": "usual"
+  },
+  {
+    "key": 305,
+    "word": "joven",
+    "translation": "young"
+  },
+  {
+    "key": 306,
+    "word": "listo",
+    "translation": "ready"
+  },
+  {
+    "key": 307,
+    "word": "por encima de",
+    "translation": "above"
+  },
+  {
+    "key": 308,
+    "word": "nunca",
+    "translation": "ever"
+  },
+  {
+    "key": 309,
+    "word": "rojo",
+    "translation": "red"
+  },
+  {
+    "key": 310,
+    "word": "lista",
+    "translation": "list"
+  },
+  {
+    "key": 311,
+    "word": "aunque",
+    "translation": "though"
+  },
+  {
+    "key": 312,
+    "word": "sentir",
+    "translation": "feel"
+  },
+  {
+    "key": 313,
+    "word": "charla",
+    "translation": "talk"
+  },
+  {
+    "key": 314,
+    "word": "pájaro",
+    "translation": "bird"
+  },
+  {
+    "key": 315,
+    "word": "pronto",
+    "translation": "soon"
+  },
+  {
+    "key": 316,
+    "word": "cuerpo",
+    "translation": "body"
+  },
+  {
+    "key": 317,
+    "word": "perro",
+    "translation": "dog"
+  },
+  {
+    "key": 318,
+    "word": "familia",
+    "translation": "family"
+  },
+  {
+    "key": 319,
+    "word": "directa",
+    "translation": "direct"
+  },
+  {
+    "key": 320,
+    "word": "plantear",
+    "translation": "pose"
+  },
+  {
+    "key": 321,
+    "word": "dejar",
+    "translation": "leave"
+  },
+  {
+    "key": 322,
+    "word": "canción",
+    "translation": "song"
+  },
+  {
+    "key": 323,
+    "word": "medir",
+    "translation": "measure"
+  },
+  {
+    "key": 324,
+    "word": "puerta",
+    "translation": "door"
+  },
+  {
+    "key": 325,
+    "word": "producto",
+    "translation": "product"
+  },
+  {
+    "key": 326,
+    "word": "negro",
+    "translation": "black"
+  },
+  {
+    "key": 327,
+    "word": "corto",
+    "translation": "short"
+  },
+  {
+    "key": 328,
+    "word": "numeral",
+    "translation": "numeral"
+  },
+  {
+    "key": 329,
+    "word": "clase",
+    "translation": "class"
+  },
+  {
+    "key": 330,
+    "word": "viento",
+    "translation": "wind"
+  },
+  {
+    "key": 331,
+    "word": "pregunta",
+    "translation": "question"
+  },
+  {
+    "key": 332,
+    "word": "suceder",
+    "translation": "happen"
+  },
+  {
+    "key": 333,
+    "word": "completo",
+    "translation": "complete"
+  },
+  {
+    "key": 334,
+    "word": "buque",
+    "translation": "ship"
+  },
+  {
+    "key": 335,
+    "word": "zona",
+    "translation": "area"
+  },
+  {
+    "key": 336,
+    "word": "medio",
+    "translation": "half"
+  },
+  {
+    "key": 337,
+    "word": "roca",
+    "translation": "rock"
+  },
+  {
+    "key": 338,
+    "word": "orden",
+    "translation": "order"
+  },
+  {
+    "key": 339,
+    "word": "fuego",
+    "translation": "fire"
+  },
+  {
+    "key": 340,
+    "word": "sur",
+    "translation": "south"
+  },
+  {
+    "key": 341,
+    "word": "problema",
+    "translation": "problem"
+  },
+  {
+    "key": 342,
+    "word": "pieza",
+    "translation": "piece"
+  },
+  {
+    "key": 343,
+    "word": "dicho",
+    "translation": "told"
+  },
+  {
+    "key": 344,
+    "word": "sabía",
+    "translation": "knew"
+  },
+  {
+    "key": 345,
+    "word": "pasar",
+    "translation": "pass"
+  },
+  {
+    "key": 346,
+    "word": "desde",
+    "translation": "since"
+  },
+  {
+    "key": 347,
+    "word": "cima",
+    "translation": "top"
+  },
+  {
+    "key": 348,
+    "word": "todo",
+    "translation": "whole"
+  },
+  {
+    "key": 349,
+    "word": "rey",
+    "translation": "king"
+  },
+  {
+    "key": 350,
+    "word": "calle",
+    "translation": "street"
+  },
+  {
+    "key": 351,
+    "word": "pulgadas",
+    "translation": "inch"
+  },
+  {
+    "key": 352,
+    "word": "multiplicar",
+    "translation": "multiply"
+  },
+  {
+    "key": 353,
+    "word": "nada",
+    "translation": "nothing"
+  },
+  {
+    "key": 354,
+    "word": "curso",
+    "translation": "course"
+  },
+  {
+    "key": 355,
+    "word": "quedarse",
+    "translation": "stay"
+  },
+  {
+    "key": 356,
+    "word": "rueda",
+    "translation": "wheel"
+  },
+  {
+    "key": 357,
+    "word": "completo",
+    "translation": "full"
+  },
+  {
+    "key": 358,
+    "word": "fuerza",
+    "translation": "force"
+  },
+  {
+    "key": 359,
+    "word": "azul",
+    "translation": "blue"
+  },
+  {
+    "key": 360,
+    "word": "objeto",
+    "translation": "object"
+  },
+  {
+    "key": 361,
+    "word": "decidir",
+    "translation": "decide"
+  },
+  {
+    "key": 362,
+    "word": "superficie",
+    "translation": "surface"
+  },
+  {
+    "key": 363,
+    "word": "profunda",
+    "translation": "deep"
+  },
+  {
+    "key": 364,
+    "word": "luna",
+    "translation": "moon"
+  },
+  {
+    "key": 365,
+    "word": "isla",
+    "translation": "island"
+  },
+  {
+    "key": 366,
+    "word": "pie",
+    "translation": "foot"
+  },
+  {
+    "key": 367,
+    "word": "sistema",
+    "translation": "system"
+  },
+  {
+    "key": 368,
+    "word": "ocupado",
+    "translation": "busy"
+  },
+  {
+    "key": 369,
+    "word": "prueba",
+    "translation": "test"
+  },
+  {
+    "key": 370,
+    "word": "registro",
+    "translation": "record"
+  },
+  {
+    "key": 371,
+    "word": "barco",
+    "translation": "boat"
+  },
+  {
+    "key": 372,
+    "word": "común",
+    "translation": "common"
+  },
+  {
+    "key": 373,
+    "word": "oro",
+    "translation": "gold"
+  },
+  {
+    "key": 374,
+    "word": "posible",
+    "translation": "possible"
+  },
+  {
+    "key": 375,
+    "word": "plano",
+    "translation": "plane"
+  },
+  {
+    "key": 376,
+    "word": "lugar",
+    "translation": "stead"
+  },
+  {
+    "key": 377,
+    "word": "seco",
+    "translation": "dry"
+  },
+  {
+    "key": 378,
+    "word": "maravilla",
+    "translation": "wonder"
+  },
+  {
+    "key": 379,
+    "word": "risa",
+    "translation": "laugh"
+  },
+  {
+    "key": 380,
+    "word": "mil",
+    "translation": "thousand"
+  },
+  {
+    "key": 381,
+    "word": "hace",
+    "translation": "ago"
+  },
+  {
+    "key": 382,
+    "word": "corrió",
+    "translation": "ran"
+  },
+  {
+    "key": 383,
+    "word": "comprobar",
+    "translation": "check"
+  },
+  {
+    "key": 384,
+    "word": "juego",
+    "translation": "game"
+  },
+  {
+    "key": 385,
+    "word": "forma",
+    "translation": "shape"
+  },
+  {
+    "key": 386,
+    "word": "equiparar",
+    "translation": "equate"
+  },
+  {
+    "key": 387,
+    "word": "caliente",
+    "translation": "hot"
+  },
+  {
+    "key": 388,
+    "word": "señorita",
+    "translation": "miss"
+  },
+  {
+    "key": 389,
+    "word": "traído",
+    "translation": "brought"
+  },
+  {
+    "key": 390,
+    "word": "calor",
+    "translation": "heat"
+  },
+  {
+    "key": 391,
+    "word": "nieve",
+    "translation": "snow"
+  },
+  {
+    "key": 392,
+    "word": "neumáticos",
+    "translation": "tire"
+  },
+  {
+    "key": 393,
+    "word": "traer",
+    "translation": "bring"
+  },
+  {
+    "key": 394,
+    "word": "sí",
+    "translation": "yes"
+  },
+  {
+    "key": 395,
+    "word": "distante",
+    "translation": "distant"
+  },
+  {
+    "key": 396,
+    "word": "llenar",
+    "translation": "fill"
+  },
+  {
+    "key": 397,
+    "word": "al este",
+    "translation": "east"
+  },
+  {
+    "key": 398,
+    "word": "pintar",
+    "translation": "paint"
+  },
+  {
+    "key": 399,
+    "word": "idioma",
+    "translation": "language"
+  },
+  {
+    "key": 400,
+    "word": "entre",
+    "translation": "among"
+  },
+  {
+    "key": 401,
+    "word": "unidad",
+    "translation": "unit"
+  },
+  {
+    "key": 402,
+    "word": "potencia",
+    "translation": "power"
+  },
+  {
+    "key": 403,
+    "word": "ciudad",
+    "translation": "town"
+  },
+  {
+    "key": 404,
+    "word": "fina",
+    "translation": "fine"
+  },
+  {
+    "key": 405,
+    "word": "cierto",
+    "translation": "certain"
+  },
+  {
+    "key": 406,
+    "word": "volar",
+    "translation": "fly"
+  },
+  {
+    "key": 407,
+    "word": "caer",
+    "translation": "fall"
+  },
+  {
+    "key": 408,
+    "word": "conducir",
+    "translation": "lead"
+  },
+  {
+    "key": 409,
+    "word": "grito",
+    "translation": "cry"
+  },
+  {
+    "key": 410,
+    "word": "oscuro",
+    "translation": "dark"
+  },
+  {
+    "key": 411,
+    "word": "máquina",
+    "translation": "machine"
+  },
+  {
+    "key": 412,
+    "word": "nota",
+    "translation": "note"
+  },
+  {
+    "key": 413,
+    "word": "espere",
+    "translation": "wait"
+  },
+  {
+    "key": 414,
+    "word": "plan de",
+    "translation": "plan"
+  },
+  {
+    "key": 415,
+    "word": "figura",
+    "translation": "figure"
+  },
+  {
+    "key": 416,
+    "word": "estrella",
+    "translation": "star"
+  },
+  {
+    "key": 417,
+    "word": "caja",
+    "translation": "box"
+  },
+  {
+    "key": 418,
+    "word": "sustantivo",
+    "translation": "noun"
+  },
+  {
+    "key": 419,
+    "word": "campo",
+    "translation": "field"
+  },
+  {
+    "key": 420,
+    "word": "resto",
+    "translation": "rest"
+  },
+  {
+    "key": 421,
+    "word": "correcta",
+    "translation": "correct"
+  },
+  {
+    "key": 422,
+    "word": "capaz",
+    "translation": "able"
+  },
+  {
+    "key": 423,
+    "word": "libra",
+    "translation": "pound"
+  },
+  {
+    "key": 424,
+    "word": "hecho",
+    "translation": "done"
+  },
+  {
+    "key": 425,
+    "word": "belleza",
+    "translation": "beauty"
+  },
+  {
+    "key": 426,
+    "word": "unidad",
+    "translation": "drive"
+  },
+  {
+    "key": 427,
+    "word": "destacado",
+    "translation": "stood"
+  },
+  {
+    "key": 428,
+    "word": "contener",
+    "translation": "contain"
+  },
+  {
+    "key": 429,
+    "word": "delante",
+    "translation": "front"
+  },
+  {
+    "key": 430,
+    "word": "enseñar",
+    "translation": "teach"
+  },
+  {
+    "key": 431,
+    "word": "semana",
+    "translation": "week"
+  },
+  {
+    "key": 432,
+    "word": "último",
+    "translation": "final"
+  },
+  {
+    "key": 433,
+    "word": "dio",
+    "translation": "gave"
+  },
+  {
+    "key": 434,
+    "word": "verde",
+    "translation": "green"
+  },
+  {
+    "key": 435,
+    "word": "oh",
+    "translation": "oh"
+  },
+  {
+    "key": 436,
+    "word": "rápido",
+    "translation": "quick"
+  },
+  {
+    "key": 437,
+    "word": "desarrollar",
+    "translation": "develop"
+  },
+  {
+    "key": 438,
+    "word": "océano",
+    "translation": "ocean"
+  },
+  {
+    "key": 439,
+    "word": "caliente",
+    "translation": "warm"
+  },
+  {
+    "key": 440,
+    "word": "libre",
+    "translation": "free"
+  },
+  {
+    "key": 441,
+    "word": "minuto",
+    "translation": "minute"
+  },
+  {
+    "key": 442,
+    "word": "fuerte",
+    "translation": "strong"
+  },
+  {
+    "key": 443,
+    "word": "especial",
+    "translation": "special"
+  },
+  {
+    "key": 444,
+    "word": "mente",
+    "translation": "mind"
+  },
+  {
+    "key": 445,
+    "word": "detrás",
+    "translation": "behind"
+  },
+  {
+    "key": 446,
+    "word": "claro",
+    "translation": "clear"
+  },
+  {
+    "key": 447,
+    "word": "cola",
+    "translation": "tail"
+  },
+  {
+    "key": 448,
+    "word": "Produce",
+    "translation": "produce"
+  },
+  {
+    "key": 449,
+    "word": "hecho",
+    "translation": "fact"
+  },
+  {
+    "key": 450,
+    "word": "espacio",
+    "translation": "space"
+  },
+  {
+    "key": 451,
+    "word": "oído",
+    "translation": "heard"
+  },
+  {
+    "key": 452,
+    "word": "mejor",
+    "translation": "best"
+  },
+  {
+    "key": 453,
+    "word": "horas",
+    "translation": "hour"
+  },
+  {
+    "key": 454,
+    "word": "mejor",
+    "translation": "better"
+  },
+  {
+    "key": 455,
+    "word": "verdadero",
+    "translation": "TRUE"
+  },
+  {
+    "key": 456,
+    "word": "durante",
+    "translation": "during"
+  },
+  {
+    "key": 457,
+    "word": "cien",
+    "translation": "hundred"
+  },
+  {
+    "key": 458,
+    "word": "cinco",
+    "translation": "five"
+  },
+  {
+    "key": 459,
+    "word": "recordar",
+    "translation": "remember"
+  },
+  {
+    "key": 460,
+    "word": "paso",
+    "translation": "step"
+  },
+  {
+    "key": 461,
+    "word": "temprana",
+    "translation": "early"
+  },
+  {
+    "key": 462,
+    "word": "mantenga",
+    "translation": "hold"
+  },
+  {
+    "key": 463,
+    "word": "oeste",
+    "translation": "west"
+  },
+  {
+    "key": 464,
+    "word": "suelo",
+    "translation": "ground"
+  },
+  {
+    "key": 465,
+    "word": "interés",
+    "translation": "interest"
+  },
+  {
+    "key": 466,
+    "word": "llegar",
+    "translation": "reach"
+  },
+  {
+    "key": 467,
+    "word": "rápido",
+    "translation": "fast"
+  },
+  {
+    "key": 468,
+    "word": "verbo",
+    "translation": "verb"
+  },
+  {
+    "key": 469,
+    "word": "cantar",
+    "translation": "sing"
+  },
+  {
+    "key": 470,
+    "word": "escuchar",
+    "translation": "listen"
+  },
+  {
+    "key": 471,
+    "word": "seis",
+    "translation": "six"
+  },
+  {
+    "key": 472,
+    "word": "mesa",
+    "translation": "table"
+  },
+  {
+    "key": 473,
+    "word": "viajes",
+    "translation": "travel"
+  },
+  {
+    "key": 474,
+    "word": "menos",
+    "translation": "less"
+  },
+  {
+    "key": 475,
+    "word": "mañana",
+    "translation": "morning"
+  },
+  {
+    "key": 476,
+    "word": "diez",
+    "translation": "ten"
+  },
+  {
+    "key": 477,
+    "word": "sencilla",
+    "translation": "simple"
+  },
+  {
+    "key": 478,
+    "word": "varios",
+    "translation": "several"
+  },
+  {
+    "key": 479,
+    "word": "vocal",
+    "translation": "vowel"
+  },
+  {
+    "key": 480,
+    "word": "hacia",
+    "translation": "toward"
+  },
+  {
+    "key": 481,
+    "word": "guerra",
+    "translation": "war"
+  },
+  {
+    "key": 482,
+    "word": "sentar",
+    "translation": "lay"
+  },
+  {
+    "key": 483,
+    "word": "contra",
+    "translation": "against"
+  },
+  {
+    "key": 484,
+    "word": "patrón",
+    "translation": "pattern"
+  },
+  {
+    "key": 485,
+    "word": "lenta",
+    "translation": "slow"
+  },
+  {
+    "key": 486,
+    "word": "centro",
+    "translation": "center"
+  },
+  {
+    "key": 487,
+    "word": "amar",
+    "translation": "love"
+  },
+  {
+    "key": 488,
+    "word": "persona",
+    "translation": "person"
+  },
+  {
+    "key": 489,
+    "word": "dinero",
+    "translation": "money"
+  },
+  {
+    "key": 490,
+    "word": "servir",
+    "translation": "serve"
+  },
+  {
+    "key": 491,
+    "word": "aparecerá",
+    "translation": "appear"
+  },
+  {
+    "key": 492,
+    "word": "carretera",
+    "translation": "road"
+  },
+  {
+    "key": 493,
+    "word": "mapa",
+    "translation": "map"
+  },
+  {
+    "key": 494,
+    "word": "lluvia",
+    "translation": "rain"
+  },
+  {
+    "key": 495,
+    "word": "regla",
+    "translation": "rule"
+  },
+  {
+    "key": 496,
+    "word": "gobernar",
+    "translation": "govern"
+  },
+  {
+    "key": 497,
+    "word": "Halar",
+    "translation": "pull"
+  },
+  {
+    "key": 498,
+    "word": "frío",
+    "translation": "cold"
+  },
+  {
+    "key": 499,
+    "word": "aviso",
+    "translation": "notice"
+  },
+  {
+    "key": 500,
+    "word": "voz",
+    "translation": "voice"
+  },
+  {
+    "key": 501,
+    "word": "energía",
+    "translation": "energy"
+  },
+  {
+    "key": 502,
+    "word": "caza",
+    "translation": "hunt"
+  },
+  {
+    "key": 503,
+    "word": "probable",
+    "translation": "probable"
+  },
+  {
+    "key": 504,
+    "word": "cama",
+    "translation": "bed"
+  },
+  {
+    "key": 505,
+    "word": "hermano",
+    "translation": "brother"
+  },
+  {
+    "key": 506,
+    "word": "huevo",
+    "translation": "egg"
+  },
+  {
+    "key": 507,
+    "word": "paseo",
+    "translation": "ride"
+  },
+  {
+    "key": 508,
+    "word": "celular",
+    "translation": "cell"
+  },
+  {
+    "key": 509,
+    "word": "creer",
+    "translation": "believe"
+  },
+  {
+    "key": 510,
+    "word": "quizás",
+    "translation": "perhaps"
+  },
+  {
+    "key": 511,
+    "word": "recoger",
+    "translation": "pick"
+  },
+  {
+    "key": 512,
+    "word": "repentina",
+    "translation": "sudden"
+  },
+  {
+    "key": 513,
+    "word": "contar",
+    "translation": "count"
+  },
+  {
+    "key": 514,
+    "word": "plaza",
+    "translation": "square"
+  },
+  {
+    "key": 515,
+    "word": "razón",
+    "translation": "reason"
+  },
+  {
+    "key": 516,
+    "word": "longitud",
+    "translation": "length"
+  },
+  {
+    "key": 517,
+    "word": "representar",
+    "translation": "represent"
+  },
+  {
+    "key": 518,
+    "word": "arte",
+    "translation": "art"
+  },
+  {
+    "key": 519,
+    "word": "sujeto",
+    "translation": "subject"
+  },
+  {
+    "key": 520,
+    "word": "región",
+    "translation": "region"
+  },
+  {
+    "key": 521,
+    "word": "tamaño",
+    "translation": "size"
+  },
+  {
+    "key": 522,
+    "word": "variar",
+    "translation": "vary"
+  },
+  {
+    "key": 523,
+    "word": "resolver",
+    "translation": "settle"
+  },
+  {
+    "key": 524,
+    "word": "hablar",
+    "translation": "speak"
+  },
+  {
+    "key": 525,
+    "word": "peso",
+    "translation": "weight"
+  },
+  {
+    "key": 526,
+    "word": "general",
+    "translation": "general"
+  },
+  {
+    "key": 527,
+    "word": "hielo",
+    "translation": "ice"
+  },
+  {
+    "key": 528,
+    "word": "materia",
+    "translation": "matter"
+  },
+  {
+    "key": 529,
+    "word": "círculo",
+    "translation": "circle"
+  },
+  {
+    "key": 530,
+    "word": "par",
+    "translation": "pair"
+  },
+  {
+    "key": 531,
+    "word": "incluir",
+    "translation": "include"
+  },
+  {
+    "key": 532,
+    "word": "brecha",
+    "translation": "divide"
+  },
+  {
+    "key": 533,
+    "word": "sílaba",
+    "translation": "syllable"
+  },
+  {
+    "key": 534,
+    "word": "sentido",
+    "translation": "felt"
+  },
+  {
+    "key": 535,
+    "word": "gran",
+    "translation": "grand"
+  },
+  {
+    "key": 536,
+    "word": "bola",
+    "translation": "ball"
+  },
+  {
+    "key": 537,
+    "word": "aún",
+    "translation": "yet"
+  },
+  {
+    "key": 538,
+    "word": "ola",
+    "translation": "wave"
+  },
+  {
+    "key": 539,
+    "word": "caer",
+    "translation": "drop"
+  },
+  {
+    "key": 540,
+    "word": "corazón",
+    "translation": "heart"
+  },
+  {
+    "key": 541,
+    "word": "am",
+    "translation": "am"
+  },
+  {
+    "key": 542,
+    "word": "presente",
+    "translation": "present"
+  },
+  {
+    "key": 543,
+    "word": "pesada",
+    "translation": "heavy"
+  },
+  {
+    "key": 544,
+    "word": "danza",
+    "translation": "dance"
+  },
+  {
+    "key": 545,
+    "word": "motor",
+    "translation": "engine"
+  },
+  {
+    "key": 546,
+    "word": "posición",
+    "translation": "position"
+  },
+  {
+    "key": 547,
+    "word": "brazo",
+    "translation": "arm"
+  },
+  {
+    "key": 548,
+    "word": "amplio",
+    "translation": "wide"
+  },
+  {
+    "key": 549,
+    "word": "vela",
+    "translation": "sail"
+  },
+  {
+    "key": 550,
+    "word": "materiales",
+    "translation": "material"
+  },
+  {
+    "key": 551,
+    "word": "fracción",
+    "translation": "fraction"
+  },
+  {
+    "key": 552,
+    "word": "bosque",
+    "translation": "forest"
+  },
+  {
+    "key": 553,
+    "word": "sentarse",
+    "translation": "sit"
+  },
+  {
+    "key": 554,
+    "word": "carrera",
+    "translation": "race"
+  },
+  {
+    "key": 555,
+    "word": "ventana",
+    "translation": "window"
+  },
+  {
+    "key": 556,
+    "word": "tienda",
+    "translation": "store"
+  },
+  {
+    "key": 557,
+    "word": "verano",
+    "translation": "summer"
+  },
+  {
+    "key": 558,
+    "word": "tren",
+    "translation": "train"
+  },
+  {
+    "key": 559,
+    "word": "sueño",
+    "translation": "sleep"
+  },
+  {
+    "key": 560,
+    "word": "demostrar",
+    "translation": "prove"
+  },
+  {
+    "key": 561,
+    "word": "solitario",
+    "translation": "lone"
+  },
+  {
+    "key": 562,
+    "word": "pierna",
+    "translation": "leg"
+  },
+  {
+    "key": 563,
+    "word": "ejercicio",
+    "translation": "exercise"
+  },
+  {
+    "key": 564,
+    "word": "pared",
+    "translation": "wall"
+  },
+  {
+    "key": 565,
+    "word": "capturas",
+    "translation": "catch"
+  },
+  {
+    "key": 566,
+    "word": "monte",
+    "translation": "mount"
+  },
+  {
+    "key": 567,
+    "word": "desear",
+    "translation": "wish"
+  },
+  {
+    "key": 568,
+    "word": "cielo",
+    "translation": "sky"
+  },
+  {
+    "key": 569,
+    "word": "bordo",
+    "translation": "board"
+  },
+  {
+    "key": 570,
+    "word": "alegría",
+    "translation": "joy"
+  },
+  {
+    "key": 571,
+    "word": "invierno",
+    "translation": "winter"
+  },
+  {
+    "key": 572,
+    "word": "satélite",
+    "translation": "sat"
+  },
+  {
+    "key": 573,
+    "word": "escrito",
+    "translation": "written"
+  },
+  {
+    "key": 574,
+    "word": "salvaje",
+    "translation": "wild"
+  },
+  {
+    "key": 575,
+    "word": "instrumento",
+    "translation": "instrument"
+  },
+  {
+    "key": 576,
+    "word": "guardado",
+    "translation": "kept"
+  },
+  {
+    "key": 577,
+    "word": "vidrio",
+    "translation": "glass"
+  },
+  {
+    "key": 578,
+    "word": "hierba",
+    "translation": "grass"
+  },
+  {
+    "key": 579,
+    "word": "vaca",
+    "translation": "cow"
+  },
+  {
+    "key": 580,
+    "word": "trabajo",
+    "translation": "job"
+  },
+  {
+    "key": 581,
+    "word": "borde",
+    "translation": "edge"
+  },
+  {
+    "key": 582,
+    "word": "signo",
+    "translation": "sign"
+  },
+  {
+    "key": 583,
+    "word": "visita",
+    "translation": "visit"
+  },
+  {
+    "key": 584,
+    "word": "pasado",
+    "translation": "past"
+  },
+  {
+    "key": 585,
+    "word": "suave",
+    "translation": "soft"
+  },
+  {
+    "key": 586,
+    "word": "diversión",
+    "translation": "fun"
+  },
+  {
+    "key": 587,
+    "word": "brillante",
+    "translation": "bright"
+  },
+  {
+    "key": 588,
+    "word": "gas",
+    "translation": "gas"
+  },
+  {
+    "key": 589,
+    "word": "tiempo",
+    "translation": "weather"
+  },
+  {
+    "key": 590,
+    "word": "mes",
+    "translation": "month"
+  },
+  {
+    "key": 591,
+    "word": "millones",
+    "translation": "million"
+  },
+  {
+    "key": 592,
+    "word": "soportar",
+    "translation": "bear"
+  },
+  {
+    "key": 593,
+    "word": "acabado",
+    "translation": "finish"
+  },
+  {
+    "key": 594,
+    "word": "feliz",
+    "translation": "happy"
+  },
+  {
+    "key": 595,
+    "word": "esperanza",
+    "translation": "hope"
+  },
+  {
+    "key": 596,
+    "word": "flor",
+    "translation": "flower"
+  },
+  {
+    "key": 597,
+    "word": "vestir",
+    "translation": "clothe"
+  },
+  {
+    "key": 598,
+    "word": "extraño",
+    "translation": "strange"
+  },
+  {
+    "key": 599,
+    "word": "se ha ido",
+    "translation": "gone"
+  },
+  {
+    "key": 600,
+    "word": "comercio",
+    "translation": "trade"
+  },
+  {
+    "key": 601,
+    "word": "melodía",
+    "translation": "melody"
+  },
+  {
+    "key": 602,
+    "word": "viaje",
+    "translation": "trip"
+  },
+  {
+    "key": 603,
+    "word": "oficina",
+    "translation": "office"
+  },
+  {
+    "key": 604,
+    "word": "recibir",
+    "translation": "receive"
+  },
+  {
+    "key": 605,
+    "word": "fila",
+    "translation": "row"
+  },
+  {
+    "key": 606,
+    "word": "boca",
+    "translation": "mouth"
+  },
+  {
+    "key": 607,
+    "word": "exacta",
+    "translation": "exact"
+  },
+  {
+    "key": 608,
+    "word": "símbolo",
+    "translation": "symbol"
+  },
+  {
+    "key": 609,
+    "word": "morir",
+    "translation": "die"
+  },
+  {
+    "key": 610,
+    "word": "menos",
+    "translation": "least"
+  },
+  {
+    "key": 611,
+    "word": "problema",
+    "translation": "trouble"
+  },
+  {
+    "key": 612,
+    "word": "grito",
+    "translation": "shout"
+  },
+  {
+    "key": 613,
+    "word": "excepto",
+    "translation": "except"
+  },
+  {
+    "key": 614,
+    "word": "escribió",
+    "translation": "wrote"
+  },
+  {
+    "key": 615,
+    "word": "semilla",
+    "translation": "seed"
+  },
+  {
+    "key": 616,
+    "word": "tono",
+    "translation": "tone"
+  },
+  {
+    "key": 617,
+    "word": "unirse",
+    "translation": "join"
+  },
+  {
+    "key": 618,
+    "word": "sugerir",
+    "translation": "suggest"
+  },
+  {
+    "key": 619,
+    "word": "limpia",
+    "translation": "clean"
+  },
+  {
+    "key": 620,
+    "word": "rotura",
+    "translation": "break"
+  },
+  {
+    "key": 621,
+    "word": "dama",
+    "translation": "lady"
+  },
+  {
+    "key": 622,
+    "word": "patio",
+    "translation": "yard"
+  },
+  {
+    "key": 623,
+    "word": "aumentando",
+    "translation": "rise"
+  },
+  {
+    "key": 624,
+    "word": "mal",
+    "translation": "bad"
+  },
+  {
+    "key": 625,
+    "word": "golpe",
+    "translation": "blow"
+  },
+  {
+    "key": 626,
+    "word": "aceite",
+    "translation": "oil"
+  },
+  {
+    "key": 627,
+    "word": "sangre",
+    "translation": "blood"
+  },
+  {
+    "key": 628,
+    "word": "tocar",
+    "translation": "touch"
+  },
+  {
+    "key": 629,
+    "word": "creció",
+    "translation": "grew"
+  },
+  {
+    "key": 630,
+    "word": "ciento",
+    "translation": "cent"
+  },
+  {
+    "key": 631,
+    "word": "mezclar",
+    "translation": "mix"
+  },
+  {
+    "key": 632,
+    "word": "equipo",
+    "translation": "team"
+  },
+  {
+    "key": 633,
+    "word": "alambre",
+    "translation": "wire"
+  },
+  {
+    "key": 634,
+    "word": "costo",
+    "translation": "cost"
+  },
+  {
+    "key": 635,
+    "word": "perdido",
+    "translation": "lost"
+  },
+  {
+    "key": 636,
+    "word": "marrón",
+    "translation": "brown"
+  },
+  {
+    "key": 637,
+    "word": "desgaste",
+    "translation": "wear"
+  },
+  {
+    "key": 638,
+    "word": "jardín",
+    "translation": "garden"
+  },
+  {
+    "key": 639,
+    "word": "igual",
+    "translation": "equal"
+  },
+  {
+    "key": 640,
+    "word": "enviado",
+    "translation": "sent"
+  },
+  {
+    "key": 641,
+    "word": "elegir",
+    "translation": "choose"
+  },
+  {
+    "key": 642,
+    "word": "cayó",
+    "translation": "fell"
+  },
+  {
+    "key": 643,
+    "word": "encajar",
+    "translation": "fit"
+  },
+  {
+    "key": 644,
+    "word": "fluir",
+    "translation": "flow"
+  },
+  {
+    "key": 645,
+    "word": "justo",
+    "translation": "fair"
+  },
+  {
+    "key": 646,
+    "word": "banco",
+    "translation": "bank"
+  },
+  {
+    "key": 647,
+    "word": "recoger",
+    "translation": "collect"
+  },
+  {
+    "key": 648,
+    "word": "guardar",
+    "translation": "save"
+  },
+  {
+    "key": 649,
+    "word": "el control",
+    "translation": "control"
+  },
+  {
+    "key": 650,
+    "word": "decimal",
+    "translation": "decimal"
+  },
+  {
+    "key": 651,
+    "word": "oído",
+    "translation": "ear"
+  },
+  {
+    "key": 652,
+    "word": "demás",
+    "translation": "else"
+  },
+  {
+    "key": 653,
+    "word": "bastante",
+    "translation": "quite"
+  },
+  {
+    "key": 654,
+    "word": "rompió",
+    "translation": "broke"
+  },
+  {
+    "key": 655,
+    "word": "caso",
+    "translation": "case"
+  },
+  {
+    "key": 656,
+    "word": "medio",
+    "translation": "middle"
+  },
+  {
+    "key": 657,
+    "word": "matar",
+    "translation": "kill"
+  },
+  {
+    "key": 658,
+    "word": "hijo",
+    "translation": "son"
+  },
+  {
+    "key": 659,
+    "word": "lago",
+    "translation": "lake"
+  },
+  {
+    "key": 660,
+    "word": "momento",
+    "translation": "moment"
+  },
+  {
+    "key": 661,
+    "word": "escala",
+    "translation": "scale"
+  },
+  {
+    "key": 662,
+    "word": "fuerte",
+    "translation": "loud"
+  },
+  {
+    "key": 663,
+    "word": "primavera",
+    "translation": "spring"
+  },
+  {
+    "key": 664,
+    "word": "observar",
+    "translation": "observe"
+  },
+  {
+    "key": 665,
+    "word": "niño",
+    "translation": "child"
+  },
+  {
+    "key": 666,
+    "word": "recta",
+    "translation": "straight"
+  },
+  {
+    "key": 667,
+    "word": "consonante",
+    "translation": "consonant"
+  },
+  {
+    "key": 668,
+    "word": "nación",
+    "translation": "nation"
+  },
+  {
+    "key": 669,
+    "word": "diccionario",
+    "translation": "dictionary"
+  },
+  {
+    "key": 670,
+    "word": "leche",
+    "translation": "milk"
+  },
+  {
+    "key": 671,
+    "word": "velocidad",
+    "translation": "speed"
+  },
+  {
+    "key": 672,
+    "word": "método",
+    "translation": "method"
+  },
+  {
+    "key": 673,
+    "word": "órgano",
+    "translation": "organ"
+  },
+  {
+    "key": 674,
+    "word": "pagar",
+    "translation": "pay"
+  },
+  {
+    "key": 675,
+    "word": "edad",
+    "translation": "age"
+  },
+  {
+    "key": 676,
+    "word": "sección",
+    "translation": "section"
+  },
+  {
+    "key": 677,
+    "word": "vestido",
+    "translation": "dress"
+  },
+  {
+    "key": 678,
+    "word": "nube",
+    "translation": "cloud"
+  },
+  {
+    "key": 679,
+    "word": "sorpresa",
+    "translation": "surprise"
+  },
+  {
+    "key": 680,
+    "word": "tranquila",
+    "translation": "quiet"
+  },
+  {
+    "key": 681,
+    "word": "piedra",
+    "translation": "stone"
+  },
+  {
+    "key": 682,
+    "word": "pequeño",
+    "translation": "tiny"
+  },
+  {
+    "key": 683,
+    "word": "ascenso",
+    "translation": "climb"
+  },
+  {
+    "key": 684,
+    "word": "fresco",
+    "translation": "cool"
+  },
+  {
+    "key": 685,
+    "word": "diseño",
+    "translation": "design"
+  },
+  {
+    "key": 686,
+    "word": "pobre",
+    "translation": "poor"
+  },
+  {
+    "key": 687,
+    "word": "mucho",
+    "translation": "lot"
+  },
+  {
+    "key": 688,
+    "word": "experimento",
+    "translation": "experiment"
+  },
+  {
+    "key": 689,
+    "word": "inferior",
+    "translation": "bottom"
+  },
+  {
+    "key": 690,
+    "word": "clave",
+    "translation": "key"
+  },
+  {
+    "key": 691,
+    "word": "hierro",
+    "translation": "iron"
+  },
+  {
+    "key": 692,
+    "word": "sola",
+    "translation": "single"
+  },
+  {
+    "key": 693,
+    "word": "palillo",
+    "translation": "stick"
+  },
+  {
+    "key": 694,
+    "word": "plana",
+    "translation": "flat"
+  },
+  {
+    "key": 695,
+    "word": "veinte",
+    "translation": "twenty"
+  },
+  {
+    "key": 696,
+    "word": "piel",
+    "translation": "skin"
+  },
+  {
+    "key": 697,
+    "word": "sonrisa",
+    "translation": "smile"
+  },
+  {
+    "key": 698,
+    "word": "pliegue",
+    "translation": "crease"
+  },
+  {
+    "key": 699,
+    "word": "agujero",
+    "translation": "hole"
+  },
+  {
+    "key": 700,
+    "word": "saltar",
+    "translation": "jump"
+  },
+  {
+    "key": 701,
+    "word": "bebé",
+    "translation": "baby"
+  },
+  {
+    "key": 702,
+    "word": "ocho",
+    "translation": "eight"
+  },
+  {
+    "key": 703,
+    "word": "pueblo",
+    "translation": "village"
+  },
+  {
+    "key": 704,
+    "word": "se reúnen",
+    "translation": "meet"
+  },
+  {
+    "key": 705,
+    "word": "raíz",
+    "translation": "root"
+  },
+  {
+    "key": 706,
+    "word": "comprar",
+    "translation": "buy"
+  },
+  {
+    "key": 707,
+    "word": "aumentar",
+    "translation": "raise"
+  },
+  {
+    "key": 708,
+    "word": "resolver",
+    "translation": "solve"
+  },
+  {
+    "key": 709,
+    "word": "de metal",
+    "translation": "metal"
+  },
+  {
+    "key": 710,
+    "word": "si",
+    "translation": "whether"
+  },
+  {
+    "key": 711,
+    "word": "empujar",
+    "translation": "push"
+  },
+  {
+    "key": 712,
+    "word": "siete",
+    "translation": "seven"
+  },
+  {
+    "key": 713,
+    "word": "párrafo",
+    "translation": "paragraph"
+  },
+  {
+    "key": 714,
+    "word": "tercero",
+    "translation": "third"
+  },
+  {
+    "key": 715,
+    "word": "deberá",
+    "translation": "shall"
+  },
+  {
+    "key": 716,
+    "word": "en espera",
+    "translation": "held"
+  },
+  {
+    "key": 717,
+    "word": "pelo",
+    "translation": "hair"
+  },
+  {
+    "key": 718,
+    "word": "describir",
+    "translation": "describe"
+  },
+  {
+    "key": 719,
+    "word": "cocinero",
+    "translation": "cook"
+  },
+  {
+    "key": 720,
+    "word": "piso",
+    "translation": "floor"
+  },
+  {
+    "key": 721,
+    "word": "ya sea",
+    "translation": "either"
+  },
+  {
+    "key": 722,
+    "word": "resultado",
+    "translation": "result"
+  },
+  {
+    "key": 723,
+    "word": "quemar",
+    "translation": "burn"
+  },
+  {
+    "key": 724,
+    "word": "colina",
+    "translation": "hill"
+  },
+  {
+    "key": 725,
+    "word": "seguro",
+    "translation": "safe"
+  },
+  {
+    "key": 726,
+    "word": "gato",
+    "translation": "cat"
+  },
+  {
+    "key": 727,
+    "word": "siglo",
+    "translation": "century"
+  },
+  {
+    "key": 728,
+    "word": "considerar",
+    "translation": "consider"
+  },
+  {
+    "key": 729,
+    "word": "tipo",
+    "translation": "type"
+  },
+  {
+    "key": 730,
+    "word": "ley",
+    "translation": "law"
+  },
+  {
+    "key": 731,
+    "word": "bit",
+    "translation": "bit"
+  },
+  {
+    "key": 732,
+    "word": "costa",
+    "translation": "coast"
+  },
+  {
+    "key": 733,
+    "word": "copia",
+    "translation": "copy"
+  },
+  {
+    "key": 734,
+    "word": "frase",
+    "translation": "phrase"
+  },
+  {
+    "key": 735,
+    "word": "silencio",
+    "translation": "silent"
+  },
+  {
+    "key": 736,
+    "word": "de altura",
+    "translation": "tall"
+  },
+  {
+    "key": 737,
+    "word": "arena",
+    "translation": "sand"
+  },
+  {
+    "key": 738,
+    "word": "suelo",
+    "translation": "soil"
+  },
+  {
+    "key": 739,
+    "word": "rollo",
+    "translation": "roll"
+  },
+  {
+    "key": 740,
+    "word": "temperatura",
+    "translation": "temperature"
+  },
+  {
+    "key": 741,
+    "word": "dedo",
+    "translation": "finger"
+  },
+  {
+    "key": 742,
+    "word": "industria",
+    "translation": "industry"
+  },
+  {
+    "key": 743,
+    "word": "valor",
+    "translation": "value"
+  },
+  {
+    "key": 744,
+    "word": "lucha",
+    "translation": "fight"
+  },
+  {
+    "key": 745,
+    "word": "mentira",
+    "translation": "lie"
+  },
+  {
+    "key": 746,
+    "word": "batir",
+    "translation": "beat"
+  },
+  {
+    "key": 747,
+    "word": "excitar",
+    "translation": "excite"
+  },
+  {
+    "key": 748,
+    "word": "naturales",
+    "translation": "natural"
+  },
+  {
+    "key": 749,
+    "word": "vista",
+    "translation": "view"
+  },
+  {
+    "key": 750,
+    "word": "sentido",
+    "translation": "sense"
+  },
+  {
+    "key": 751,
+    "word": "de capital",
+    "translation": "capital"
+  },
+  {
+    "key": 752,
+    "word": "no lo hará",
+    "translation": "won’t"
+  },
+  {
+    "key": 753,
+    "word": "silla",
+    "translation": "chair"
+  },
+  {
+    "key": 754,
+    "word": "peligro",
+    "translation": "danger"
+  },
+  {
+    "key": 755,
+    "word": "fruta",
+    "translation": "fruit"
+  },
+  {
+    "key": 756,
+    "word": "rica",
+    "translation": "rich"
+  },
+  {
+    "key": 757,
+    "word": "de espesor",
+    "translation": "thick"
+  },
+  {
+    "key": 758,
+    "word": "soldado",
+    "translation": "soldier"
+  },
+  {
+    "key": 759,
+    "word": "proceso",
+    "translation": "process"
+  },
+  {
+    "key": 760,
+    "word": "operar",
+    "translation": "operate"
+  },
+  {
+    "key": 761,
+    "word": "práctica",
+    "translation": "practice"
+  },
+  {
+    "key": 762,
+    "word": "separada",
+    "translation": "separate"
+  },
+  {
+    "key": 763,
+    "word": "difícil",
+    "translation": "difficult"
+  },
+  {
+    "key": 764,
+    "word": "médico",
+    "translation": "doctor"
+  },
+  {
+    "key": 765,
+    "word": "por favor",
+    "translation": "please"
+  },
+  {
+    "key": 766,
+    "word": "proteger",
+    "translation": "protect"
+  },
+  {
+    "key": 767,
+    "word": "mediodía",
+    "translation": "noon"
+  },
+  {
+    "key": 768,
+    "word": "de cultivos",
+    "translation": "crop"
+  },
+  {
+    "key": 769,
+    "word": "moderno",
+    "translation": "modern"
+  },
+  {
+    "key": 770,
+    "word": "elemento",
+    "translation": "element"
+  },
+  {
+    "key": 771,
+    "word": "golpear",
+    "translation": "hit"
+  },
+  {
+    "key": 772,
+    "word": "estudiante",
+    "translation": "student"
+  },
+  {
+    "key": 773,
+    "word": "esquina",
+    "translation": "corner"
+  },
+  {
+    "key": 774,
+    "word": "partido",
+    "translation": "party"
+  },
+  {
+    "key": 775,
+    "word": "suministro",
+    "translation": "supply"
+  },
+  {
+    "key": 776,
+    "word": "cuya",
+    "translation": "whose"
+  },
+  {
+    "key": 777,
+    "word": "localizar",
+    "translation": "locate"
+  },
+  {
+    "key": 778,
+    "word": "anillo",
+    "translation": "ring"
+  },
+  {
+    "key": 779,
+    "word": "carácter",
+    "translation": "character"
+  },
+  {
+    "key": 780,
+    "word": "insecto",
+    "translation": "insect"
+  },
+  {
+    "key": 781,
+    "word": "capturado",
+    "translation": "caught"
+  },
+  {
+    "key": 782,
+    "word": "período",
+    "translation": "period"
+  },
+  {
+    "key": 783,
+    "word": "indicar",
+    "translation": "indicate"
+  },
+  {
+    "key": 784,
+    "word": "Radio",
+    "translation": "radio"
+  },
+  {
+    "key": 785,
+    "word": "habló",
+    "translation": "spoke"
+  },
+  {
+    "key": 786,
+    "word": "átomo",
+    "translation": "atom"
+  },
+  {
+    "key": 787,
+    "word": "humana",
+    "translation": "human"
+  },
+  {
+    "key": 788,
+    "word": "historia",
+    "translation": "history"
+  },
+  {
+    "key": 789,
+    "word": "efecto",
+    "translation": "effect"
+  },
+  {
+    "key": 790,
+    "word": "eléctrica",
+    "translation": "electric"
+  },
+  {
+    "key": 791,
+    "word": "esperar",
+    "translation": "expect"
+  },
+  {
+    "key": 792,
+    "word": "hueso",
+    "translation": "bone"
+  },
+  {
+    "key": 793,
+    "word": "ferrocarril",
+    "translation": "rail"
+  },
+  {
+    "key": 794,
+    "word": "imaginar",
+    "translation": "imagine"
+  },
+  {
+    "key": 795,
+    "word": "proporcionar",
+    "translation": "provide"
+  },
+  {
+    "key": 796,
+    "word": "acuerdo",
+    "translation": "agree"
+  },
+  {
+    "key": 797,
+    "word": "por tanto,",
+    "translation": "thus"
+  },
+  {
+    "key": 798,
+    "word": "suave",
+    "translation": "gentle"
+  },
+  {
+    "key": 799,
+    "word": "mujer",
+    "translation": "woman"
+  },
+  {
+    "key": 800,
+    "word": "capitán",
+    "translation": "captain"
+  },
+  {
+    "key": 801,
+    "word": "adivinar",
+    "translation": "guess"
+  },
+  {
+    "key": 802,
+    "word": "necesario",
+    "translation": "necessary"
+  },
+  {
+    "key": 803,
+    "word": "agudo",
+    "translation": "sharp"
+  },
+  {
+    "key": 804,
+    "word": "ala",
+    "translation": "wing"
+  },
+  {
+    "key": 805,
+    "word": "crear",
+    "translation": "create"
+  },
+  {
+    "key": 806,
+    "word": "vecino",
+    "translation": "neighbor"
+  },
+  {
+    "key": 807,
+    "word": "lavado",
+    "translation": "wash"
+  },
+  {
+    "key": 808,
+    "word": "bate",
+    "translation": "bat"
+  },
+  {
+    "key": 809,
+    "word": "más bien",
+    "translation": "rather"
+  },
+  {
+    "key": 810,
+    "word": "multitud",
+    "translation": "crowd"
+  },
+  {
+    "key": 811,
+    "word": "maíz",
+    "translation": "corn"
+  },
+  {
+    "key": 812,
+    "word": "comparar",
+    "translation": "compare"
+  },
+  {
+    "key": 813,
+    "word": "poema",
+    "translation": "poem"
+  },
+  {
+    "key": 814,
+    "word": "cadena",
+    "translation": "string"
+  },
+  {
+    "key": 815,
+    "word": "campana",
+    "translation": "bell"
+  },
+  {
+    "key": 816,
+    "word": "dependerá",
+    "translation": "depend"
+  },
+  {
+    "key": 817,
+    "word": "carne",
+    "translation": "meat"
+  },
+  {
+    "key": 818,
+    "word": "frotar",
+    "translation": "rub"
+  },
+  {
+    "key": 819,
+    "word": "tubo",
+    "translation": "tube"
+  },
+  {
+    "key": 820,
+    "word": "famoso",
+    "translation": "famous"
+  },
+  {
+    "key": 921,
+    "word": "dólar",
+    "translation": "dollar"
+  },
+  {
+    "key": 822,
+    "word": "corriente",
+    "translation": "stream"
+  },
+  {
+    "key": 823,
+    "word": "miedo",
+    "translation": "fear"
+  },
+  {
+    "key": 284,
+    "word": "vista",
+    "translation": "sight"
+  },
+  {
+    "key": 825,
+    "word": "delgado",
+    "translation": "thin"
+  },
+  {
+    "key": 826,
+    "word": "triángulo",
+    "translation": "triangle"
+  },
+  {
+    "key": 827,
+    "word": "planeta",
+    "translation": "planet"
+  },
+  {
+    "key": 828,
+    "word": "prisa",
+    "translation": "hurry"
+  },
+  {
+    "key": 829,
+    "word": "jefe",
+    "translation": "chief"
+  },
+  {
+    "key": 830,
+    "word": "colonia",
+    "translation": "colony"
+  },
+  {
+    "key": 831,
+    "word": "reloj",
+    "translation": "clock"
+  },
+  {
+    "key": 832,
+    "word": "mina",
+    "translation": "mine"
+  },
+  {
+    "key": 833,
+    "word": "empate",
+    "translation": "tie"
+  },
+  {
+    "key": 834,
+    "word": "entrar",
+    "translation": "enter"
+  },
+  {
+    "key": 835,
+    "word": "importante",
+    "translation": "major"
+  },
+  {
+    "key": 836,
+    "word": "fresco",
+    "translation": "fresh"
+  },
+  {
+    "key": 837,
+    "word": "búsqueda",
+    "translation": "search"
+  },
+  {
+    "key": 838,
+    "word": "enviar",
+    "translation": "send"
+  },
+  {
+    "key": 839,
+    "word": "amarillo",
+    "translation": "yellow"
+  },
+  {
+    "key": 840,
+    "word": "pistola",
+    "translation": "gun"
+  },
+  {
+    "key": 841,
+    "word": "permitir",
+    "translation": "allow"
+  },
+  {
+    "key": 842,
+    "word": "print",
+    "translation": "print"
+  },
+  {
+    "key": 843,
+    "word": "muerto",
+    "translation": "dead"
+  },
+  {
+    "key": 844,
+    "word": "lugar",
+    "translation": "spot"
+  },
+  {
+    "key": 845,
+    "word": "desierto",
+    "translation": "desert"
+  },
+  {
+    "key": 846,
+    "word": "traje",
+    "translation": "suit"
+  },
+  {
+    "key": 847,
+    "word": "actual",
+    "translation": "current"
+  },
+  {
+    "key": 848,
+    "word": "ascensor",
+    "translation": "lift"
+  },
+  {
+    "key": 840,
+    "word": "rosa",
+    "translation": "rose"
+  },
+  {
+    "key": 850,
+    "word": "llegar",
+    "translation": "arrive"
+  },
+  {
+    "key": 851,
+    "word": "master",
+    "translation": "master"
+  },
+  {
+    "key": 852,
+    "word": "pista",
+    "translation": "track"
+  },
+  {
+    "key": 853,
+    "word": "padre",
+    "translation": "parent"
+  },
+  {
+    "key": 854,
+    "word": "orilla",
+    "translation": "shore"
+  },
+  {
+    "key": 855,
+    "word": "división",
+    "translation": "division"
+  },
+  {
+    "key": 856,
+    "word": "hoja",
+    "translation": "sheet"
+  },
+  {
+    "key": 857,
+    "word": "sustancia",
+    "translation": "substance"
+  },
+  {
+    "key": 858,
+    "word": "favorecer",
+    "translation": "favor"
+  },
+  {
+    "key": 859,
+    "word": "conectar",
+    "translation": "connect"
+  },
+  {
+    "key": 860,
+    "word": "mensaje",
+    "translation": "post"
+  },
+  {
+    "key": 861,
+    "word": "pasar",
+    "translation": "spend"
+  },
+  {
+    "key": 862,
+    "word": "acorde",
+    "translation": "chord"
+  },
+  {
+    "key": 863,
+    "word": "grasa",
+    "translation": "fat"
+  },
+  {
+    "key": 864,
+    "word": "contento",
+    "translation": "glad"
+  },
+  {
+    "key": 865,
+    "word": "originales",
+    "translation": "original"
+  },
+  {
+    "key": 866,
+    "word": "cuota",
+    "translation": "share"
+  },
+  {
+    "key": 867,
+    "word": "estación",
+    "translation": "station"
+  },
+  {
+    "key": 868,
+    "word": "papá",
+    "translation": "dad"
+  },
+  {
+    "key": 869,
+    "word": "pan",
+    "translation": "bread"
+  },
+  {
+    "key": 870,
+    "word": "cobrar",
+    "translation": "charge"
+  },
+  {
+    "key": 871,
+    "word": "adecuada",
+    "translation": "proper"
+  },
+  {
+    "key": 872,
+    "word": "barra",
+    "translation": "bar"
+  },
+  {
+    "key": 873,
+    "word": "oferta",
+    "translation": "offer"
+  },
+  {
+    "key": 874,
+    "word": "segmento",
+    "translation": "segment"
+  },
+  {
+    "key": 875,
+    "word": "esclavo",
+    "translation": "slave"
+  },
+  {
+    "key": 876,
+    "word": "pato",
+    "translation": "duck"
+  },
+  {
+    "key": 877,
+    "word": "instantánea",
+    "translation": "instant"
+  },
+  {
+    "key": 878,
+    "word": "mercado",
+    "translation": "market"
+  },
+  {
+    "key": 879,
+    "word": "grado",
+    "translation": "degree"
+  },
+  {
+    "key": 880,
+    "word": "poblar",
+    "translation": "populate"
+  },
+  {
+    "key": 881,
+    "word": "polluelo",
+    "translation": "chick"
+  },
+  {
+    "key": 882,
+    "word": "querido",
+    "translation": "dear"
+  },
+  {
+    "key": 883,
+    "word": "enemigo",
+    "translation": "enemy"
+  },
+  {
+    "key": 884,
+    "word": "responder",
+    "translation": "reply"
+  },
+  {
+    "key": 885,
+    "word": "bebida",
+    "translation": "drink"
+  },
+  {
+    "key": 886,
+    "word": "producirse",
+    "translation": "occur"
+  },
+  {
+    "key": 887,
+    "word": "apoyo",
+    "translation": "support"
+  },
+  {
+    "key": 888,
+    "word": "discurso",
+    "translation": "speech"
+  },
+  {
+    "key": 889,
+    "word": "naturaleza",
+    "translation": "nature"
+  },
+  {
+    "key": 890,
+    "word": "alcance",
+    "translation": "range"
+  },
+  {
+    "key": 891,
+    "word": "vapor",
+    "translation": "steam"
+  },
+  {
+    "key": 892,
+    "word": "movimiento",
+    "translation": "motion"
+  },
+  {
+    "key": 893,
+    "word": "camino",
+    "translation": "path"
+  },
+  {
+    "key": 894,
+    "word": "líquido",
+    "translation": "liquid"
+  },
+  {
+    "key": 895,
+    "word": "log",
+    "translation": "log"
+  },
+  {
+    "key": 896,
+    "word": "significado",
+    "translation": "meant"
+  },
+  {
+    "key": 897,
+    "word": "cociente",
+    "translation": "quotient"
+  },
+  {
+    "key": 898,
+    "word": "dientes",
+    "translation": "teeth"
+  },
+  {
+    "key": 899,
+    "word": "concha",
+    "translation": "shell"
+  },
+  {
+    "key": 900,
+    "word": "cuello",
+    "translation": "neck"
+  },
+  {
+    "key": 901,
+    "word": "oxígeno",
+    "translation": "oxygen"
+  },
+  {
+    "key": 902,
+    "word": "azúcar",
+    "translation": "sugar"
+  },
+  {
+    "key": 903,
+    "word": "muerte",
+    "translation": "death"
+  },
+  {
+    "key": 904,
+    "word": "bastante",
+    "translation": "pretty"
+  },
+  {
+    "key": 905,
+    "word": "habilidad",
+    "translation": "skill"
+  },
+  {
+    "key": 906,
+    "word": "mujeres",
+    "translation": "women"
+  },
+  {
+    "key": 907,
+    "word": "temporada",
+    "translation": "season"
+  },
+  {
+    "key": 908,
+    "word": "solución",
+    "translation": "solution"
+  },
+  {
+    "key": 909,
+    "word": "imán",
+    "translation": "magnet"
+  },
+  {
+    "key": 910,
+    "word": "plata",
+    "translation": "silver"
+  },
+  {
+    "key": 911,
+    "word": "gracias",
+    "translation": "thank"
+  },
+  {
+    "key": 912,
+    "word": "rama",
+    "translation": "branch"
+  },
+  {
+    "key": 913,
+    "word": "partido",
+    "translation": "match"
+  },
+  {
+    "key": 914,
+    "word": "sufijo",
+    "translation": "suffix"
+  },
+  {
+    "key": 915,
+    "word": "especialmente",
+    "translation": "especially"
+  },
+  {
+    "key": 916,
+    "word": "higo",
+    "translation": "fig"
+  },
+  {
+    "key": 917,
+    "word": "miedo",
+    "translation": "afraid"
+  },
+  {
+    "key": 918,
+    "word": "enorme",
+    "translation": "huge"
+  },
+  {
+    "key": 919,
+    "word": "hermana",
+    "translation": "sister"
+  },
+  {
+    "key": 920,
+    "word": "acero",
+    "translation": "steel"
+  },
+  {
+    "key": 921,
+    "word": "discutir",
+    "translation": "discuss"
+  },
+  {
+    "key": 922,
+    "word": "adelante",
+    "translation": "forward"
+  },
+  {
+    "key": 923,
+    "word": "similar",
+    "translation": "similar"
+  },
+  {
+    "key": 924,
+    "word": "guiar",
+    "translation": "guide"
+  },
+  {
+    "key": 925,
+    "word": "experiencia",
+    "translation": "experience"
+  },
+  {
+    "key": 926,
+    "word": "puntuación",
+    "translation": "score"
+  },
+  {
+    "key": 927,
+    "word": "manzana",
+    "translation": "apple"
+  },
+  {
+    "key": 928,
+    "word": "comprado",
+    "translation": "bought"
+  },
+  {
+    "key": 929,
+    "word": "llevado",
+    "translation": "led"
+  },
+  {
+    "key": 930,
+    "word": "pitch",
+    "translation": "pitch"
+  },
+  {
+    "key": 931,
+    "word": "abrigo",
+    "translation": "coat"
+  },
+  {
+    "key": 932,
+    "word": "masa",
+    "translation": "mass"
+  },
+  {
+    "key": 933,
+    "word": "tarjeta",
+    "translation": "card"
+  },
+  {
+    "key": 934,
+    "word": "banda",
+    "translation": "band"
+  },
+  {
+    "key": 935,
+    "word": "cuerda",
+    "translation": "rope"
+  },
+  {
+    "key": 936,
+    "word": "deslizamiento",
+    "translation": "slip"
+  },
+  {
+    "key": 937,
+    "word": "ganar",
+    "translation": "win"
+  },
+  {
+    "key": 938,
+    "word": "soñar",
+    "translation": "dream"
+  },
+  {
+    "key": 939,
+    "word": "noche",
+    "translation": "evening"
+  },
+  {
+    "key": 940,
+    "word": "condición",
+    "translation": "condition"
+  },
+  {
+    "key": 941,
+    "word": "pienso",
+    "translation": "feed"
+  },
+  {
+    "key": 942,
+    "word": "herramienta",
+    "translation": "tool"
+  },
+  {
+    "key": 943,
+    "word": "totales",
+    "translation": "total"
+  },
+  {
+    "key": 944,
+    "word": "básico",
+    "translation": "basic"
+  },
+  {
+    "key": 945,
+    "word": "olor",
+    "translation": "smell"
+  },
+  {
+    "key": 946,
+    "word": "valle",
+    "translation": "valley"
+  },
+  {
+    "key": 947,
+    "word": "ni",
+    "translation": "nor"
+  },
+  {
+    "key": 948,
+    "word": "doble",
+    "translation": "double"
+  },
+  {
+    "key": 949,
+    "word": "asiento",
+    "translation": "seat"
+  },
+  {
+    "key": 950,
+    "word": "continuar",
+    "translation": "continue"
+  },
+  {
+    "key": 951,
+    "word": "bloque",
+    "translation": "block"
+  },
+  {
+    "key": 952,
+    "word": "tabla",
+    "translation": "chart"
+  },
+  {
+    "key": 953,
+    "word": "sombrero",
+    "translation": "hat"
+  },
+  {
+    "key": 954,
+    "word": "vender",
+    "translation": "sell"
+  },
+  {
+    "key": 955,
+    "word": "éxito",
+    "translation": "success"
+  },
+  {
+    "key": 956,
+    "word": "empresa",
+    "translation": "company"
+  },
+  {
+    "key": 957,
+    "word": "restar",
+    "translation": "subtract"
+  },
+  {
+    "key": 958,
+    "word": "evento",
+    "translation": "event"
+  },
+  {
+    "key": 959,
+    "word": "particular,",
+    "translation": "particular"
+  },
+  {
+    "key": 960,
+    "word": "acuerdo",
+    "translation": "deal"
+  },
+  {
+    "key": 961,
+    "word": "nadar",
+    "translation": "swim"
+  },
+  {
+    "key": 962,
+    "word": "plazo",
+    "translation": "term"
+  },
+  {
+    "key": 963,
+    "word": "opuesta",
+    "translation": "opposite"
+  },
+  {
+    "key": 964,
+    "word": "esposa",
+    "translation": "wife"
+  },
+  {
+    "key": 965,
+    "word": "zapato",
+    "translation": "shoe"
+  },
+  {
+    "key": 966,
+    "word": "hombro",
+    "translation": "shoulder"
+  },
+  {
+    "key": 967,
+    "word": "propagación",
+    "translation": "spread"
+  },
+  {
+    "key": 968,
+    "word": "organizar",
+    "translation": "arrange"
+  },
+  {
+    "key": 969,
+    "word": "campamento",
+    "translation": "camp"
+  },
+  {
+    "key": 970,
+    "word": "inventar",
+    "translation": "invent"
+  },
+  {
+    "key": 971,
+    "word": "algodón",
+    "translation": "cotton"
+  },
+  {
+    "key": 972,
+    "word": "nacido",
+    "translation": "born"
+  },
+  {
+    "key": 973,
+    "word": "determinar",
+    "translation": "determine"
+  },
+  {
+    "key": 974,
+    "word": "cuarto de galón",
+    "translation": "quart"
+  },
+  {
+    "key": 975,
+    "word": "nueve",
+    "translation": "nine"
+  },
+  {
+    "key": 976,
+    "word": "camión",
+    "translation": "truck"
+  },
+  {
+    "key": 977,
+    "word": "ruido",
+    "translation": "noise"
+  },
+  {
+    "key": 978,
+    "word": "nivel",
+    "translation": "level"
+  },
+  {
+    "key": 979,
+    "word": "oportunidad",
+    "translation": "chance"
+  },
+  {
+    "key": 980,
+    "word": "reunir",
+    "translation": "gather"
+  },
+  {
+    "key": 981,
+    "word": "tienda",
+    "translation": "shop"
+  },
+  {
+    "key": 982,
+    "word": "tramo",
+    "translation": "stretch"
+  },
+  {
+    "key": 983,
+    "word": "lanzar",
+    "translation": "throw"
+  },
+  {
+    "key": 984,
+    "word": "brillo",
+    "translation": "shine"
+  },
+  {
+    "key": 985,
+    "word": "propiedad",
+    "translation": "property"
+  },
+  {
+    "key": 986,
+    "word": "columna",
+    "translation": "column"
+  },
+  {
+    "key": 987,
+    "word": "molécula",
+    "translation": "molecule"
+  },
+  {
+    "key": 988,
+    "word": "seleccionar",
+    "translation": "select"
+  },
+  {
+    "key": 989,
+    "word": "mal",
+    "translation": "wrong"
+  },
+  {
+    "key": 990,
+    "word": "gris",
+    "translation": "gray"
+  },
+  {
+    "key": 991,
+    "word": "repita",
+    "translation": "repeat"
+  },
+  {
+    "key": 992,
+    "word": "exigir",
+    "translation": "require"
+  },
+  {
+    "key": 993,
+    "word": "amplio",
+    "translation": "broad"
+  },
+  {
+    "key": 994,
+    "word": "preparar",
+    "translation": "prepare"
+  },
+  {
+    "key": 995,
+    "word": "sal",
+    "translation": "salt"
+  },
+  {
+    "key": 996,
+    "word": "nariz",
+    "translation": "nose"
+  },
+  {
+    "key": 997,
+    "word": "plurales",
+    "translation": "plural"
+  },
+  {
+    "key": 998,
+    "word": "cólera",
+    "translation": "anger"
+  },
+  {
+    "key": 999,
+    "word": "reclamación",
+    "translation": "claim"
+  },
+  {
+    "key": 1000,
+    "word": "continente",
+    "translation": "continent"
+  }
+]
