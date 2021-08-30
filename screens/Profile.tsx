@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, Dimensions, Text, View, FlatList, TouchableOpacity } from 'react-native';
+import { NavigationTabScreenProps } from 'react-navigation-tabs';
 
 import LanguageButton from '../components/LanguageButton';
 
@@ -8,7 +9,7 @@ interface Language {
   language: string;
 }
 
-export default function Profile(): JSX.Element {
+export default function Profile({ navigation }: NavigationTabScreenProps): JSX.Element {
   const languages: Language[] = [
     { key: '1', language: 'German' },
     { key: '2', language: 'Spanish' },
@@ -19,6 +20,8 @@ export default function Profile(): JSX.Element {
 
   const pressHandler = (language: string) => {
     setLanguage(language);
+    const setSelectedLanguage = navigation.getParam('setLanguage') as (language :string) => void;
+    setSelectedLanguage(language);
   };
 
   // Use dimensions of the window to determine the image size.
@@ -48,7 +51,11 @@ export default function Profile(): JSX.Element {
             style={[styles.flatListItem, { width: imageSize, height: imageSize }]}
             onPress={() => pressHandler(item.language)}
           >
-            <LanguageButton language={item.language} active={language == item.language} size={imageSize} />
+            <LanguageButton
+              language={item.language}
+              active={language == item.language}
+              size={imageSize}
+            />
           </TouchableOpacity>
         )}
       />

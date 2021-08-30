@@ -13,9 +13,20 @@ const learnIcon = () => <Entypo name='open-book' size={24} color='black' />;
 const vocabularyIcon = () => <Entypo name='documents' size={24} color='black' />;
 const profileIcon = () => <AntDesign name='user' size={24} color='black' />;
 
+let language = 'German';
+const setLanguage = (newLanguage: string) => {
+  language = newLanguage;
+};
+const getLanguage = (): string => {
+  return language;
+};
+
 const BottomTabNavigator = createBottomTabNavigator({
   Learn: {
     screen: Learn,
+    params: {
+      getLanguage: getLanguage,
+    },
     navigationOptions: {
       tabBarLabel: 'Learn',
       tabBarIcon: learnIcon,
@@ -23,6 +34,9 @@ const BottomTabNavigator = createBottomTabNavigator({
   },
   Vocabulary: {
     screen: Vocabulary,
+    params: {
+      getLanguage: getLanguage,
+    },
     navigationOptions: {
       tabBarLabel: 'Vocabulary',
       tabBarIcon: vocabularyIcon,
@@ -30,6 +44,10 @@ const BottomTabNavigator = createBottomTabNavigator({
   },
   Profile: {
     screen: Profile,
+    params: {
+      getLanguage: getLanguage,
+      setLanguage: setLanguage,
+    },
     navigationOptions: {
       tabBarLabel: 'Profile',
       tabBarIcon: profileIcon,
