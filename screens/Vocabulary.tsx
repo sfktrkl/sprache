@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { StyleSheet, FlatList, TouchableOpacity, Modal, Text, View } from 'react-native';
+import { NavigationTabScreenProps } from 'react-navigation-tabs';
 
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import Card from '../components/Card';
@@ -20,17 +21,32 @@ export interface WordItem {
   translation: string;
 }
 
-export default function Vocabulary(language: string): JSX.Element {
+export default function Vocabulary({ navigation }: NavigationTabScreenProps): JSX.Element {
+  const [language, setLanguage] = useState('German');
   const [database, setDatabase] = useState<WordItem[]>([]);
-  const getDatabase = (databaseName: string) => {
+  const getSelectedLanguage = (): string => {
+    const getLanguage = navigation.getParam('getLanguage') as () => string;
+    return getLanguage();
+  };
+  useEffect(() => {
+    navigation.addListener('didFocus', () => {
+      const selectedLanguage = getSelectedLanguage();
+      if (selectedLanguage != language)
+      {
+        setDatabase([]);
+        setLanguage(selectedLanguage);
+      }
+    });
+  });
+  const getDatabase = () => {
     if (database.length > 0) return database;
 
     let loadedDatabase: Word[] = German as Word[];
-    if (databaseName == 'Spanish') loadedDatabase = Spanish as Word[];
-    if (databaseName == 'French') loadedDatabase = French as Word[];
-    if (databaseName == 'Russian') loadedDatabase = Russian as Word[];
+    if (language == 'Spanish') loadedDatabase = Spanish as Word[];
+    if (language == 'French') loadedDatabase = French as Word[];
+    if (language == 'Russian') loadedDatabase = Russian as Word[];
 
-    const language: WordItem[] = [];
+    const languageDatabase: WordItem[] = [];
     let key = 1;
     loadedDatabase.forEach((element: Word) => {
       const newWord: WordItem = {
@@ -39,9 +55,9 @@ export default function Vocabulary(language: string): JSX.Element {
         translation: element.translation,
       };
       key = key + 1;
-      language.push(newWord);
+      languageDatabase.push(newWord);
     });
-    setDatabase(language);
+    setDatabase(languageDatabase);
     return database;
   };
 
@@ -58,7 +74,7 @@ export default function Vocabulary(language: string): JSX.Element {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Vocabulary</Text>
+      <Text style={styles.title}>Vocabulary{navigation.getParam('language')}</Text>
 
       <Modal visible={modalOpen} animationType='slide' style={styles.modal}>
         <View style={styles.modalContent}>
@@ -82,7 +98,7 @@ export default function Vocabulary(language: string): JSX.Element {
       </Modal>
 
       <FlatList
-        data={getDatabase(language)}
+        data={getDatabase()}
         renderItem={({ item }) => (
           <TouchableOpacity onPress={() => openModal(item)}>
             <Card>
