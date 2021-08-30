@@ -1,0 +1,5002 @@
+[
+  {
+    "key": 1,
+    "word": "wie",
+    "translation": "as"
+  },
+  {
+    "key": 2,
+    "word": "ich",
+    "translation": "I"
+  },
+  {
+    "key": 3,
+    "word": "seine",
+    "translation": "his"
+  },
+  {
+    "key": 4,
+    "word": "dass",
+    "translation": "that"
+  },
+  {
+    "key": 5,
+    "word": "er",
+    "translation": "he"
+  },
+  {
+    "key": 6,
+    "word": "war",
+    "translation": "was"
+  },
+  {
+    "key": 7,
+    "word": "für",
+    "translation": "for"
+  },
+  {
+    "key": 8,
+    "word": "auf",
+    "translation": "on"
+  },
+  {
+    "key": 9,
+    "word": "sind",
+    "translation": "are"
+  },
+  {
+    "key": 10,
+    "word": "mit",
+    "translation": "with"
+  },
+  {
+    "key": 11,
+    "word": "sie",
+    "translation": "they"
+  },
+  {
+    "key": 12,
+    "word": "sein",
+    "translation": "be"
+  },
+  {
+    "key": 13,
+    "word": "bei",
+    "translation": "at"
+  },
+  {
+    "key": 14,
+    "word": "ein",
+    "translation": "one"
+  },
+  {
+    "key": 15,
+    "word": "haben",
+    "translation": "have"
+  },
+  {
+    "key": 16,
+    "word": "dies",
+    "translation": "this"
+  },
+  {
+    "key": 17,
+    "word": "aus",
+    "translation": "from"
+  },
+  {
+    "key": 18,
+    "word": "durch",
+    "translation": "by"
+  },
+  {
+    "key": 19,
+    "word": "heiß",
+    "translation": "hot"
+  },
+  {
+    "key": 20,
+    "word": "Wort",
+    "translation": "word"
+  },
+  {
+    "key": 21,
+    "word": "aber",
+    "translation": "but"
+  },
+  {
+    "key": 22,
+    "word": "was",
+    "translation": "what"
+  },
+  {
+    "key": 23,
+    "word": "einige",
+    "translation": "some"
+  },
+  {
+    "key": 24,
+    "word": "ist",
+    "translation": "is"
+  },
+  {
+    "key": 25,
+    "word": "es",
+    "translation": "it"
+  },
+  {
+    "key": 26,
+    "word": "Sie",
+    "translation": "you"
+  },
+  {
+    "key": 27,
+    "word": "oder",
+    "translation": "or"
+  },
+  {
+    "key": 28,
+    "word": "hatte",
+    "translation": "had"
+  },
+  {
+    "key": 29,
+    "word": "die",
+    "translation": "the"
+  },
+  {
+    "key": 30,
+    "word": "von",
+    "translation": "of"
+  },
+  {
+    "key": 31,
+    "word": "zu",
+    "translation": "to"
+  },
+  {
+    "key": 32,
+    "word": "und",
+    "translation": "and"
+  },
+  {
+    "key": 33,
+    "word": "ein",
+    "translation": "a"
+  },
+  {
+    "key": 34,
+    "word": "bei",
+    "translation": "in"
+  },
+  {
+    "key": 35,
+    "word": "wir",
+    "translation": "we"
+  },
+  {
+    "key": 36,
+    "word": "können",
+    "translation": "can"
+  },
+  {
+    "key": 37,
+    "word": "aus",
+    "translation": "out"
+  },
+  {
+    "key": 38,
+    "word": "andere",
+    "translation": "other"
+  },
+  {
+    "key": 39,
+    "word": "waren",
+    "translation": "were"
+  },
+  {
+    "key": 40,
+    "word": "die",
+    "translation": "which"
+  },
+  {
+    "key": 41,
+    "word": "tun",
+    "translation": "do"
+  },
+  {
+    "key": 42,
+    "word": "ihre",
+    "translation": "their"
+  },
+  {
+    "key": 43,
+    "word": "Zeit",
+    "translation": "time"
+  },
+  {
+    "key": 44,
+    "word": "wenn",
+    "translation": "if"
+  },
+  {
+    "key": 45,
+    "word": "werden",
+    "translation": "will"
+  },
+  {
+    "key": 46,
+    "word": "wie",
+    "translation": "how"
+  },
+  {
+    "key": 47,
+    "word": "sagte",
+    "translation": "said"
+  },
+  {
+    "key": 48,
+    "word": "ein",
+    "translation": "an"
+  },
+  {
+    "key": 49,
+    "word": "jeder",
+    "translation": "each"
+  },
+  {
+    "key": 50,
+    "word": "sagen",
+    "translation": "tell"
+  },
+  {
+    "key": 51,
+    "word": "tut",
+    "translation": "does"
+  },
+  {
+    "key": 52,
+    "word": "Satz",
+    "translation": "set"
+  },
+  {
+    "key": 53,
+    "word": "drei",
+    "translation": "three"
+  },
+  {
+    "key": 54,
+    "word": "wollen",
+    "translation": "want"
+  },
+  {
+    "key": 55,
+    "word": "Luft",
+    "translation": "air"
+  },
+  {
+    "key": 56,
+    "word": "gut",
+    "translation": "well"
+  },
+  {
+    "key": 57,
+    "word": "auch",
+    "translation": "also"
+  },
+  {
+    "key": 58,
+    "word": "spielen",
+    "translation": "play"
+  },
+  {
+    "key": 59,
+    "word": "klein",
+    "translation": "small"
+  },
+  {
+    "key": 60,
+    "word": "Ende",
+    "translation": "end"
+  },
+  {
+    "key": 61,
+    "word": "setzen",
+    "translation": "put"
+  },
+  {
+    "key": 62,
+    "word": "Zuhause",
+    "translation": "home"
+  },
+  {
+    "key": 63,
+    "word": "lesen",
+    "translation": "read"
+  },
+  {
+    "key": 64,
+    "word": "seits",
+    "translation": "hand"
+  },
+  {
+    "key": 65,
+    "word": "Hafen",
+    "translation": "port"
+  },
+  {
+    "key": 66,
+    "word": "groß",
+    "translation": "large"
+  },
+  {
+    "key": 67,
+    "word": "buchstabieren",
+    "translation": "spell"
+  },
+  {
+    "key": 68,
+    "word": "hinzufügen",
+    "translation": "add"
+  },
+  {
+    "key": 69,
+    "word": "auch",
+    "translation": "even"
+  },
+  {
+    "key": 70,
+    "word": "Lande",
+    "translation": "land"
+  },
+  {
+    "key": 71,
+    "word": "hier",
+    "translation": "here"
+  },
+  {
+    "key": 72,
+    "word": "muss",
+    "translation": "must"
+  },
+  {
+    "key": 73,
+    "word": "groß",
+    "translation": "big"
+  },
+  {
+    "key": 74,
+    "word": "hoch",
+    "translation": "high"
+  },
+  {
+    "key": 75,
+    "word": "so",
+    "translation": "such"
+  },
+  {
+    "key": 76,
+    "word": "folgen",
+    "translation": "follow"
+  },
+  {
+    "key": 77,
+    "word": "Akt",
+    "translation": "act"
+  },
+  {
+    "key": 78,
+    "word": "warum",
+    "translation": "why"
+  },
+  {
+    "key": 79,
+    "word": "fragen",
+    "translation": "ask"
+  },
+  {
+    "key": 80,
+    "word": "Männer",
+    "translation": "men"
+  },
+  {
+    "key": 81,
+    "word": "Veränderung",
+    "translation": "change"
+  },
+  {
+    "key": 82,
+    "word": "ging",
+    "translation": "went"
+  },
+  {
+    "key": 83,
+    "word": "Licht",
+    "translation": "light"
+  },
+  {
+    "key": 84,
+    "word": "Art",
+    "translation": "kind"
+  },
+  {
+    "key": 85,
+    "word": "aus",
+    "translation": "off"
+  },
+  {
+    "key": 86,
+    "word": "müssen",
+    "translation": "need"
+  },
+  {
+    "key": 87,
+    "word": "Haus",
+    "translation": "house"
+  },
+  {
+    "key": 88,
+    "word": "Bild",
+    "translation": "picture"
+  },
+  {
+    "key": 89,
+    "word": "versuchen",
+    "translation": "try"
+  },
+  {
+    "key": 90,
+    "word": "uns",
+    "translation": "us"
+  },
+  {
+    "key": 91,
+    "word": "wieder",
+    "translation": "again"
+  },
+  {
+    "key": 92,
+    "word": "Tier",
+    "translation": "animal"
+  },
+  {
+    "key": 93,
+    "word": "Punkt",
+    "translation": "point"
+  },
+  {
+    "key": 94,
+    "word": "Mutter",
+    "translation": "mother"
+  },
+  {
+    "key": 95,
+    "word": "Welt",
+    "translation": "world"
+  },
+  {
+    "key": 96,
+    "word": "in der Nähe von",
+    "translation": "near"
+  },
+  {
+    "key": 97,
+    "word": "bauen",
+    "translation": "build"
+  },
+  {
+    "key": 98,
+    "word": "selbst",
+    "translation": "self"
+  },
+  {
+    "key": 99,
+    "word": "Erde",
+    "translation": "earth"
+  },
+  {
+    "key": 100,
+    "word": "Vater",
+    "translation": "father"
+  },
+  {
+    "key": 101,
+    "word": "jeder",
+    "translation": "any"
+  },
+  {
+    "key": 102,
+    "word": "neu",
+    "translation": "new"
+  },
+  {
+    "key": 103,
+    "word": "Arbeit",
+    "translation": "work"
+  },
+  {
+    "key": 104,
+    "word": "Teil",
+    "translation": "part"
+  },
+  {
+    "key": 105,
+    "word": "nehmen",
+    "translation": "take"
+  },
+  {
+    "key": 106,
+    "word": "erhalten",
+    "translation": "get"
+  },
+  {
+    "key": 107,
+    "word": "Ort",
+    "translation": "place"
+  },
+  {
+    "key": 108,
+    "word": "gemacht",
+    "translation": "made"
+  },
+  {
+    "key": 109,
+    "word": "leben",
+    "translation": "live"
+  },
+  {
+    "key": 110,
+    "word": "wo",
+    "translation": "where"
+  },
+  {
+    "key": 111,
+    "word": "nach",
+    "translation": "after"
+  },
+  {
+    "key": 112,
+    "word": "zurück",
+    "translation": "back"
+  },
+  {
+    "key": 113,
+    "word": "wenig",
+    "translation": "little"
+  },
+  {
+    "key": 114,
+    "word": "nur",
+    "translation": "only"
+  },
+  {
+    "key": 115,
+    "word": "Runde",
+    "translation": "round"
+  },
+  {
+    "key": 116,
+    "word": "Mann",
+    "translation": "man"
+  },
+  {
+    "key": 117,
+    "word": "Jahr",
+    "translation": "year"
+  },
+  {
+    "key": 118,
+    "word": "kam",
+    "translation": "came"
+  },
+  {
+    "key": 119,
+    "word": "zeigen",
+    "translation": "show"
+  },
+  {
+    "key": 120,
+    "word": "jeder",
+    "translation": "every"
+  },
+  {
+    "key": 121,
+    "word": "gut",
+    "translation": "good"
+  },
+  {
+    "key": 122,
+    "word": "mir",
+    "translation": "me"
+  },
+  {
+    "key": 123,
+    "word": "geben",
+    "translation": "give"
+  },
+  {
+    "key": 124,
+    "word": "unsere",
+    "translation": "our"
+  },
+  {
+    "key": 125,
+    "word": "unter",
+    "translation": "under"
+  },
+  {
+    "key": 126,
+    "word": "Name",
+    "translation": "name"
+  },
+  {
+    "key": 127,
+    "word": "sehr",
+    "translation": "very"
+  },
+  {
+    "key": 128,
+    "word": "durch",
+    "translation": "through"
+  },
+  {
+    "key": 129,
+    "word": "nur",
+    "translation": "just"
+  },
+  {
+    "key": 130,
+    "word": "Formular",
+    "translation": "form"
+  },
+  {
+    "key": 131,
+    "word": "Satz",
+    "translation": "sentence"
+  },
+  {
+    "key": 132,
+    "word": "groß",
+    "translation": "great"
+  },
+  {
+    "key": 133,
+    "word": "denken",
+    "translation": "think"
+  },
+  {
+    "key": 134,
+    "word": "sagen",
+    "translation": "say"
+  },
+  {
+    "key": 135,
+    "word": "Hilfe",
+    "translation": "help"
+  },
+  {
+    "key": 136,
+    "word": "niedrig",
+    "translation": "low"
+  },
+  {
+    "key": 137,
+    "word": "Linie",
+    "translation": "line"
+  },
+  {
+    "key": 138,
+    "word": "abweichen",
+    "translation": "differ"
+  },
+  {
+    "key": 139,
+    "word": "wiederum",
+    "translation": "turn"
+  },
+  {
+    "key": 140,
+    "word": "Ursache",
+    "translation": "cause"
+  },
+  {
+    "key": 141,
+    "word": "viel",
+    "translation": "much"
+  },
+  {
+    "key": 142,
+    "word": "bedeuten",
+    "translation": "mean"
+  },
+  {
+    "key": 143,
+    "word": "vor",
+    "translation": "before"
+  },
+  {
+    "key": 144,
+    "word": "Umzug",
+    "translation": "move"
+  },
+  {
+    "key": 145,
+    "word": "Recht",
+    "translation": "right"
+  },
+  {
+    "key": 146,
+    "word": "Junge",
+    "translation": "boy"
+  },
+  {
+    "key": 147,
+    "word": "alt",
+    "translation": "old"
+  },
+  {
+    "key": 148,
+    "word": "zu",
+    "translation": "too"
+  },
+  {
+    "key": 149,
+    "word": "gleich",
+    "translation": "same"
+  },
+  {
+    "key": 150,
+    "word": "sie",
+    "translation": "she"
+  },
+  {
+    "key": 151,
+    "word": "alle",
+    "translation": "all"
+  },
+  {
+    "key": 152,
+    "word": "da",
+    "translation": "there"
+  },
+  {
+    "key": 153,
+    "word": "wenn",
+    "translation": "when"
+  },
+  {
+    "key": 154,
+    "word": "nach oben",
+    "translation": "up"
+  },
+  {
+    "key": 155,
+    "word": "Verwendung",
+    "translation": "use"
+  },
+  {
+    "key": 156,
+    "word": "Ihre",
+    "translation": "your"
+  },
+  {
+    "key": 157,
+    "word": "Weg",
+    "translation": "way"
+  },
+  {
+    "key": 158,
+    "word": "über",
+    "translation": "about"
+  },
+  {
+    "key": 159,
+    "word": "viele",
+    "translation": "many"
+  },
+  {
+    "key": 160,
+    "word": "dann",
+    "translation": "then"
+  },
+  {
+    "key": 161,
+    "word": "sie",
+    "translation": "them"
+  },
+  {
+    "key": 162,
+    "word": "schreiben",
+    "translation": "write"
+  },
+  {
+    "key": 163,
+    "word": "würde",
+    "translation": "would"
+  },
+  {
+    "key": 164,
+    "word": "wie",
+    "translation": "like"
+  },
+  {
+    "key": 165,
+    "word": "so",
+    "translation": "so"
+  },
+  {
+    "key": 166,
+    "word": "diese",
+    "translation": "these"
+  },
+  {
+    "key": 167,
+    "word": "sie",
+    "translation": "her"
+  },
+  {
+    "key": 168,
+    "word": "lange",
+    "translation": "long"
+  },
+  {
+    "key": 169,
+    "word": "machen",
+    "translation": "make"
+  },
+  {
+    "key": 170,
+    "word": "Sache",
+    "translation": "thing"
+  },
+  {
+    "key": 171,
+    "word": "sehen",
+    "translation": "see"
+  },
+  {
+    "key": 172,
+    "word": "ihm",
+    "translation": "him"
+  },
+  {
+    "key": 173,
+    "word": "zwei",
+    "translation": "two"
+  },
+  {
+    "key": 174,
+    "word": "hat",
+    "translation": "has"
+  },
+  {
+    "key": 175,
+    "word": "suchen",
+    "translation": "look"
+  },
+  {
+    "key": 176,
+    "word": "mehr",
+    "translation": "more"
+  },
+  {
+    "key": 177,
+    "word": "Tag",
+    "translation": "day"
+  },
+  {
+    "key": 178,
+    "word": "könnte",
+    "translation": "could"
+  },
+  {
+    "key": 179,
+    "word": "gehen",
+    "translation": "go"
+  },
+  {
+    "key": 180,
+    "word": "kommen",
+    "translation": "come"
+  },
+  {
+    "key": 181,
+    "word": "tat",
+    "translation": "did"
+  },
+  {
+    "key": 182,
+    "word": "Anzahl",
+    "translation": "key"
+  },
+  {
+    "key": 183,
+    "word": "klingen",
+    "translation": "sound"
+  },
+  {
+    "key": 184,
+    "word": "nicht",
+    "translation": "no"
+  },
+  {
+    "key": 185,
+    "word": "am meisten",
+    "translation": "most"
+  },
+  {
+    "key": 186,
+    "word": "Menschen",
+    "translation": "people"
+  },
+  {
+    "key": 187,
+    "word": "meine",
+    "translation": "my"
+  },
+  {
+    "key": 188,
+    "word": "über",
+    "translation": "over"
+  },
+  {
+    "key": 189,
+    "word": "wissen",
+    "translation": "know"
+  },
+  {
+    "key": 190,
+    "word": "Wasser",
+    "translation": "water"
+  },
+  {
+    "key": 191,
+    "word": "als",
+    "translation": "than"
+  },
+  {
+    "key": 192,
+    "word": "Anruf",
+    "translation": "call"
+  },
+  {
+    "key": 193,
+    "word": "erste",
+    "translation": "first"
+  },
+  {
+    "key": 194,
+    "word": "die",
+    "translation": "who"
+  },
+  {
+    "key": 195,
+    "word": "können",
+    "translation": "may"
+  },
+  {
+    "key": 196,
+    "word": "nach unten",
+    "translation": "down"
+  },
+  {
+    "key": 197,
+    "word": "Seite",
+    "translation": "side"
+  },
+  {
+    "key": 198,
+    "word": "gewesen",
+    "translation": "been"
+  },
+  {
+    "key": 199,
+    "word": "jetzt",
+    "translation": "now"
+  },
+  {
+    "key": 200,
+    "word": "finden",
+    "translation": "find"
+  },
+  {
+    "key": 201,
+    "word": "Kopf",
+    "translation": "head"
+  },
+  {
+    "key": 202,
+    "word": "stehen",
+    "translation": "stand"
+  },
+  {
+    "key": 203,
+    "word": "besitzen",
+    "translation": "own"
+  },
+  {
+    "key": 204,
+    "word": "Seite",
+    "translation": "page"
+  },
+  {
+    "key": 205,
+    "word": "sollte",
+    "translation": "should"
+  },
+  {
+    "key": 206,
+    "word": "Land",
+    "translation": "country"
+  },
+  {
+    "key": 207,
+    "word": "gefunden",
+    "translation": "found"
+  },
+  {
+    "key": 208,
+    "word": "Antwort",
+    "translation": "answer"
+  },
+  {
+    "key": 209,
+    "word": "Schule",
+    "translation": "school"
+  },
+  {
+    "key": 210,
+    "word": "wachsen",
+    "translation": "grow"
+  },
+  {
+    "key": 211,
+    "word": "Studie",
+    "translation": "study"
+  },
+  {
+    "key": 212,
+    "word": "noch",
+    "translation": "still"
+  },
+  {
+    "key": 213,
+    "word": "lernen",
+    "translation": "learn"
+  },
+  {
+    "key": 214,
+    "word": "Anlage",
+    "translation": "plant"
+  },
+  {
+    "key": 215,
+    "word": "Abdeckung",
+    "translation": "cover"
+  },
+  {
+    "key": 216,
+    "word": "Lebensmittel",
+    "translation": "food"
+  },
+  {
+    "key": 217,
+    "word": "Sonne",
+    "translation": "sun"
+  },
+  {
+    "key": 218,
+    "word": "vier",
+    "translation": "four"
+  },
+  {
+    "key": 219,
+    "word": "zwischen",
+    "translation": "between"
+  },
+  {
+    "key": 220,
+    "word": "Zustand",
+    "translation": "state"
+  },
+  {
+    "key": 221,
+    "word": "halten",
+    "translation": "keep"
+  },
+  {
+    "key": 222,
+    "word": "Auge",
+    "translation": "eye"
+  },
+  {
+    "key": 223,
+    "word": "nie",
+    "translation": "never"
+  },
+  {
+    "key": 224,
+    "word": "letzte",
+    "translation": "last"
+  },
+  {
+    "key": 225,
+    "word": "lassen",
+    "translation": "let"
+  },
+  {
+    "key": 226,
+    "word": "Gedanken",
+    "translation": "thought"
+  },
+  {
+    "key": 227,
+    "word": "Stadt",
+    "translation": "city"
+  },
+  {
+    "key": 228,
+    "word": "Baum",
+    "translation": "tree"
+  },
+  {
+    "key": 229,
+    "word": "überqueren",
+    "translation": "cross"
+  },
+  {
+    "key": 230,
+    "word": "Bauernhof",
+    "translation": "farm"
+  },
+  {
+    "key": 231,
+    "word": "schwer",
+    "translation": "hard"
+  },
+  {
+    "key": 232,
+    "word": "Beginn",
+    "translation": "start"
+  },
+  {
+    "key": 233,
+    "word": "Macht",
+    "translation": "might"
+  },
+  {
+    "key": 234,
+    "word": "Geschichte",
+    "translation": "story"
+  },
+  {
+    "key": 235,
+    "word": "Säge",
+    "translation": "saw"
+  },
+  {
+    "key": 236,
+    "word": "weit",
+    "translation": "far"
+  },
+  {
+    "key": 237,
+    "word": "Meer",
+    "translation": "sea"
+  },
+  {
+    "key": 238,
+    "word": "ziehen",
+    "translation": "draw"
+  },
+  {
+    "key": 239,
+    "word": "links",
+    "translation": "left"
+  },
+  {
+    "key": 240,
+    "word": "spät",
+    "translation": "late"
+  },
+  {
+    "key": 241,
+    "word": "laufen",
+    "translation": "run"
+  },
+  {
+    "key": 242,
+    "word": "unterlassen Sie",
+    "translation": "don’t"
+  },
+  {
+    "key": 243,
+    "word": "während",
+    "translation": "while"
+  },
+  {
+    "key": 244,
+    "word": "Presse",
+    "translation": "press"
+  },
+  {
+    "key": 245,
+    "word": "Schließen",
+    "translation": "close"
+  },
+  {
+    "key": 246,
+    "word": "Nacht",
+    "translation": "night"
+  },
+  {
+    "key": 247,
+    "word": "realen",
+    "translation": "real"
+  },
+  {
+    "key": 248,
+    "word": "Leben",
+    "translation": "life"
+  },
+  {
+    "key": 249,
+    "word": "wenige",
+    "translation": "few"
+  },
+  {
+    "key": 250,
+    "word": "Norden",
+    "translation": "north"
+  },
+  {
+    "key": 251,
+    "word": "Buch",
+    "translation": "book"
+  },
+  {
+    "key": 252,
+    "word": "tragen",
+    "translation": "carry"
+  },
+  {
+    "key": 253,
+    "word": "nahm",
+    "translation": "took"
+  },
+  {
+    "key": 254,
+    "word": "Wissenschaft",
+    "translation": "science"
+  },
+  {
+    "key": 255,
+    "word": "essen",
+    "translation": "eat"
+  },
+  {
+    "key": 256,
+    "word": "Zimmer",
+    "translation": "room"
+  },
+  {
+    "key": 257,
+    "word": "Freund",
+    "translation": "friend"
+  },
+  {
+    "key": 258,
+    "word": "begann",
+    "translation": "began"
+  },
+  {
+    "key": 259,
+    "word": "Idee",
+    "translation": "idea"
+  },
+  {
+    "key": 260,
+    "word": "Fisch",
+    "translation": "fish"
+  },
+  {
+    "key": 261,
+    "word": "berg",
+    "translation": "mountain"
+  },
+  {
+    "key": 262,
+    "word": "Stopp",
+    "translation": "stop"
+  },
+  {
+    "key": 263,
+    "word": "einmal",
+    "translation": "once"
+  },
+  {
+    "key": 264,
+    "word": "Basis",
+    "translation": "base"
+  },
+  {
+    "key": 265,
+    "word": "hören",
+    "translation": "hear"
+  },
+  {
+    "key": 266,
+    "word": "Pferd",
+    "translation": "horse"
+  },
+  {
+    "key": 267,
+    "word": "Schnitt",
+    "translation": "cut"
+  },
+  {
+    "key": 268,
+    "word": "sicher",
+    "translation": "sure"
+  },
+  {
+    "key": 269,
+    "word": "beobachten",
+    "translation": "watch"
+  },
+  {
+    "key": 270,
+    "word": "Farbe",
+    "translation": "color"
+  },
+  {
+    "key": 271,
+    "word": "Gesicht",
+    "translation": "face"
+  },
+  {
+    "key": 272,
+    "word": "Holz",
+    "translation": "wood"
+  },
+  {
+    "key": 273,
+    "word": "Haupt-",
+    "translation": "main"
+  },
+  {
+    "key": 274,
+    "word": "geöffnet",
+    "translation": "open"
+  },
+  {
+    "key": 275,
+    "word": "scheinen",
+    "translation": "seem"
+  },
+  {
+    "key": 276,
+    "word": "zusammen",
+    "translation": "together"
+  },
+  {
+    "key": 277,
+    "word": "nächste",
+    "translation": "next"
+  },
+  {
+    "key": 278,
+    "word": "weiß",
+    "translation": "white"
+  },
+  {
+    "key": 279,
+    "word": "Kinder",
+    "translation": "children"
+  },
+  {
+    "key": 280,
+    "word": "Start",
+    "translation": "begin"
+  },
+  {
+    "key": 281,
+    "word": "bekam",
+    "translation": "got"
+  },
+  {
+    "key": 282,
+    "word": "gehen",
+    "translation": "walk"
+  },
+  {
+    "key": 283,
+    "word": "Beispiel",
+    "translation": "example"
+  },
+  {
+    "key": 284,
+    "word": "erleichtern",
+    "translation": "ease"
+  },
+  {
+    "key": 285,
+    "word": "Papier",
+    "translation": "paper"
+  },
+  {
+    "key": 286,
+    "word": "Gruppe",
+    "translation": "group"
+  },
+  {
+    "key": 287,
+    "word": "immer",
+    "translation": "always"
+  },
+  {
+    "key": 288,
+    "word": "Musik",
+    "translation": "music"
+  },
+  {
+    "key": 289,
+    "word": "diejenigen",
+    "translation": "those"
+  },
+  {
+    "key": 290,
+    "word": "beide",
+    "translation": "both"
+  },
+  {
+    "key": 291,
+    "word": "Marke",
+    "translation": "mark"
+  },
+  {
+    "key": 292,
+    "word": "oft",
+    "translation": "often"
+  },
+  {
+    "key": 293,
+    "word": "Schreiben",
+    "translation": "letter"
+  },
+  {
+    "key": 294,
+    "word": "bis",
+    "translation": "until"
+  },
+  {
+    "key": 295,
+    "word": "Meile",
+    "translation": "mile"
+  },
+  {
+    "key": 296,
+    "word": "Fluss",
+    "translation": "river"
+  },
+  {
+    "key": 297,
+    "word": "Auto",
+    "translation": "car"
+  },
+  {
+    "key": 298,
+    "word": "Füße",
+    "translation": "feet"
+  },
+  {
+    "key": 299,
+    "word": "Pflege",
+    "translation": "care"
+  },
+  {
+    "key": 300,
+    "word": "zweite",
+    "translation": "second"
+  },
+  {
+    "key": 301,
+    "word": "genug",
+    "translation": "enough"
+  },
+  {
+    "key": 302,
+    "word": "Ebene",
+    "translation": "plain"
+  },
+  {
+    "key": 303,
+    "word": "Mädchen",
+    "translation": "girl"
+  },
+  {
+    "key": 304,
+    "word": "üblich",
+    "translation": "usual"
+  },
+  {
+    "key": 305,
+    "word": "jung",
+    "translation": "young"
+  },
+  {
+    "key": 306,
+    "word": "bereit",
+    "translation": "ready"
+  },
+  {
+    "key": 307,
+    "word": "oben",
+    "translation": "above"
+  },
+  {
+    "key": 308,
+    "word": "je",
+    "translation": "ever"
+  },
+  {
+    "key": 309,
+    "word": "rot",
+    "translation": "red"
+  },
+  {
+    "key": 310,
+    "word": "Liste",
+    "translation": "list"
+  },
+  {
+    "key": 311,
+    "word": "obwohl",
+    "translation": "though"
+  },
+  {
+    "key": 312,
+    "word": "fühlen",
+    "translation": "feel"
+  },
+  {
+    "key": 313,
+    "word": "Vortrag",
+    "translation": "talk"
+  },
+  {
+    "key": 314,
+    "word": "Vogel",
+    "translation": "bird"
+  },
+  {
+    "key": 315,
+    "word": "bald",
+    "translation": "soon"
+  },
+  {
+    "key": 316,
+    "word": "Körper",
+    "translation": "body"
+  },
+  {
+    "key": 317,
+    "word": "Hund",
+    "translation": "dog"
+  },
+  {
+    "key": 318,
+    "word": "Familie",
+    "translation": "family"
+  },
+  {
+    "key": 319,
+    "word": "direkt",
+    "translation": "direct"
+  },
+  {
+    "key": 320,
+    "word": "Pose",
+    "translation": "pose"
+  },
+  {
+    "key": 321,
+    "word": "verlassen",
+    "translation": "leave"
+  },
+  {
+    "key": 322,
+    "word": "Lied",
+    "translation": "song"
+  },
+  {
+    "key": 323,
+    "word": "messen",
+    "translation": "measure"
+  },
+  {
+    "key": 324,
+    "word": "Tür",
+    "translation": "door"
+  },
+  {
+    "key": 325,
+    "word": "Produkt",
+    "translation": "product"
+  },
+  {
+    "key": 326,
+    "word": "schwarz",
+    "translation": "black"
+  },
+  {
+    "key": 327,
+    "word": "kurz",
+    "translation": "short"
+  },
+  {
+    "key": 328,
+    "word": "Zahl",
+    "translation": "numeral"
+  },
+  {
+    "key": 329,
+    "word": "Klasse",
+    "translation": "class"
+  },
+  {
+    "key": 330,
+    "word": "Wind",
+    "translation": "wind"
+  },
+  {
+    "key": 331,
+    "word": "Frage",
+    "translation": "question"
+  },
+  {
+    "key": 332,
+    "word": "passieren",
+    "translation": "happen"
+  },
+  {
+    "key": 333,
+    "word": "vollständig",
+    "translation": "complete"
+  },
+  {
+    "key": 334,
+    "word": "Schiff",
+    "translation": "ship"
+  },
+  {
+    "key": 335,
+    "word": "Bereich",
+    "translation": "area"
+  },
+  {
+    "key": 336,
+    "word": "Hälfte",
+    "translation": "half"
+  },
+  {
+    "key": 337,
+    "word": "Stein",
+    "translation": "rock"
+  },
+  {
+    "key": 338,
+    "word": "bestellen",
+    "translation": "order"
+  },
+  {
+    "key": 339,
+    "word": "Feuer",
+    "translation": "fire"
+  },
+  {
+    "key": 340,
+    "word": "Süden",
+    "translation": "south"
+  },
+  {
+    "key": 341,
+    "word": "Problem",
+    "translation": "problem"
+  },
+  {
+    "key": 342,
+    "word": "Stück",
+    "translation": "piece"
+  },
+  {
+    "key": 343,
+    "word": "sagte",
+    "translation": "told"
+  },
+  {
+    "key": 344,
+    "word": "wusste",
+    "translation": "knew"
+  },
+  {
+    "key": 345,
+    "word": "passieren",
+    "translation": "pass"
+  },
+  {
+    "key": 346,
+    "word": "seit",
+    "translation": "since"
+  },
+  {
+    "key": 347,
+    "word": "obere",
+    "translation": "top"
+  },
+  {
+    "key": 348,
+    "word": "ganze",
+    "translation": "whole"
+  },
+  {
+    "key": 349,
+    "word": "König",
+    "translation": "king"
+  },
+  {
+    "key": 350,
+    "word": "Straße",
+    "translation": "street"
+  },
+  {
+    "key": 351,
+    "word": "Zoll",
+    "translation": "inch"
+  },
+  {
+    "key": 352,
+    "word": "multiplizieren",
+    "translation": "multiply"
+  },
+  {
+    "key": 353,
+    "word": "nichts",
+    "translation": "nothing"
+  },
+  {
+    "key": 354,
+    "word": "Kurs",
+    "translation": "course"
+  },
+  {
+    "key": 355,
+    "word": "bleiben",
+    "translation": "stay"
+  },
+  {
+    "key": 356,
+    "word": "Rad",
+    "translation": "wheel"
+  },
+  {
+    "key": 357,
+    "word": "voll",
+    "translation": "full"
+  },
+  {
+    "key": 358,
+    "word": "Kraft",
+    "translation": "force"
+  },
+  {
+    "key": 359,
+    "word": "blau",
+    "translation": "blue"
+  },
+  {
+    "key": 360,
+    "word": "Objekt",
+    "translation": "object"
+  },
+  {
+    "key": 361,
+    "word": "entscheiden",
+    "translation": "decide"
+  },
+  {
+    "key": 362,
+    "word": "Oberfläche",
+    "translation": "surface"
+  },
+  {
+    "key": 363,
+    "word": "tief",
+    "translation": "deep"
+  },
+  {
+    "key": 364,
+    "word": "Mond",
+    "translation": "moon"
+  },
+  {
+    "key": 365,
+    "word": "Insel",
+    "translation": "island"
+  },
+  {
+    "key": 366,
+    "word": "Fuß",
+    "translation": "foot"
+  },
+  {
+    "key": 367,
+    "word": "System",
+    "translation": "system"
+  },
+  {
+    "key": 368,
+    "word": "beschäftigt",
+    "translation": "busy"
+  },
+  {
+    "key": 369,
+    "word": "Prüfung",
+    "translation": "test"
+  },
+  {
+    "key": 370,
+    "word": "Rekord",
+    "translation": "record"
+  },
+  {
+    "key": 371,
+    "word": "Boot",
+    "translation": "boat"
+  },
+  {
+    "key": 372,
+    "word": "gemeinsam",
+    "translation": "common"
+  },
+  {
+    "key": 373,
+    "word": "goldenen",
+    "translation": "gold"
+  },
+  {
+    "key": 374,
+    "word": "möglich",
+    "translation": "possible"
+  },
+  {
+    "key": 375,
+    "word": "Flugzeug",
+    "translation": "plane"
+  },
+  {
+    "key": 376,
+    "word": "statt",
+    "translation": "stead"
+  },
+  {
+    "key": 377,
+    "word": "trocken",
+    "translation": "dry"
+  },
+  {
+    "key": 378,
+    "word": "Wunder",
+    "translation": "wonder"
+  },
+  {
+    "key": 379,
+    "word": "Lachen",
+    "translation": "laugh"
+  },
+  {
+    "key": 380,
+    "word": "tausend",
+    "translation": "thousand"
+  },
+  {
+    "key": 381,
+    "word": "vor",
+    "translation": "ago"
+  },
+  {
+    "key": 382,
+    "word": "lief",
+    "translation": "ran"
+  },
+  {
+    "key": 383,
+    "word": "überprüfen",
+    "translation": "check"
+  },
+  {
+    "key": 384,
+    "word": "Spiel",
+    "translation": "game"
+  },
+  {
+    "key": 385,
+    "word": "Form",
+    "translation": "shape"
+  },
+  {
+    "key": 386,
+    "word": "gleichsetzen",
+    "translation": "equate"
+  },
+  {
+    "key": 387,
+    "word": "heiß",
+    "translation": "hot"
+  },
+  {
+    "key": 388,
+    "word": "Fehl",
+    "translation": "miss"
+  },
+  {
+    "key": 389,
+    "word": "gebracht",
+    "translation": "brought"
+  },
+  {
+    "key": 390,
+    "word": "Wärme",
+    "translation": "heat"
+  },
+  {
+    "key": 391,
+    "word": "Schnee",
+    "translation": "snow"
+  },
+  {
+    "key": 392,
+    "word": "Reifen",
+    "translation": "tire"
+  },
+  {
+    "key": 393,
+    "word": "bringen",
+    "translation": "bring"
+  },
+  {
+    "key": 394,
+    "word": "ja",
+    "translation": "yes"
+  },
+  {
+    "key": 395,
+    "word": "entfernt",
+    "translation": "distant"
+  },
+  {
+    "key": 396,
+    "word": "füllen",
+    "translation": "fill"
+  },
+  {
+    "key": 397,
+    "word": "Osten",
+    "translation": "east"
+  },
+  {
+    "key": 398,
+    "word": "malen",
+    "translation": "paint"
+  },
+  {
+    "key": 399,
+    "word": "Sprache",
+    "translation": "language"
+  },
+  {
+    "key": 400,
+    "word": "unter",
+    "translation": "among"
+  },
+  {
+    "key": 401,
+    "word": "Einheit",
+    "translation": "unit"
+  },
+  {
+    "key": 402,
+    "word": "Macht",
+    "translation": "power"
+  },
+  {
+    "key": 403,
+    "word": "Stadt",
+    "translation": "town"
+  },
+  {
+    "key": 404,
+    "word": "fein",
+    "translation": "fine"
+  },
+  {
+    "key": 405,
+    "word": "sicher",
+    "translation": "certain"
+  },
+  {
+    "key": 406,
+    "word": "fliegen",
+    "translation": "fly"
+  },
+  {
+    "key": 407,
+    "word": "fallen",
+    "translation": "fall"
+  },
+  {
+    "key": 408,
+    "word": "führen",
+    "translation": "lead"
+  },
+  {
+    "key": 409,
+    "word": "Schrei",
+    "translation": "cry"
+  },
+  {
+    "key": 410,
+    "word": "dunkel",
+    "translation": "dark"
+  },
+  {
+    "key": 411,
+    "word": "Maschine",
+    "translation": "machine"
+  },
+  {
+    "key": 412,
+    "word": "note",
+    "translation": "note"
+  },
+  {
+    "key": 413,
+    "word": "warten",
+    "translation": "wait"
+  },
+  {
+    "key": 414,
+    "word": "Plan",
+    "translation": "plan"
+  },
+  {
+    "key": 415,
+    "word": "Abbildung",
+    "translation": "figure"
+  },
+  {
+    "key": 416,
+    "word": "Stern",
+    "translation": "star"
+  },
+  {
+    "key": 417,
+    "word": "Kasten",
+    "translation": "box"
+  },
+  {
+    "key": 418,
+    "word": "Nomen",
+    "translation": "noun"
+  },
+  {
+    "key": 419,
+    "word": "Feld",
+    "translation": "field"
+  },
+  {
+    "key": 420,
+    "word": "Rest",
+    "translation": "rest"
+  },
+  {
+    "key": 421,
+    "word": "richtig",
+    "translation": "correct"
+  },
+  {
+    "key": 422,
+    "word": "fähig",
+    "translation": "able"
+  },
+  {
+    "key": 423,
+    "word": "Pfund",
+    "translation": "pound"
+  },
+  {
+    "key": 424,
+    "word": "getan",
+    "translation": "done"
+  },
+  {
+    "key": 425,
+    "word": "Schönheit",
+    "translation": "beauty"
+  },
+  {
+    "key": 426,
+    "word": "Antriebs",
+    "translation": "drive"
+  },
+  {
+    "key": 427,
+    "word": "stand",
+    "translation": "stood"
+  },
+  {
+    "key": 428,
+    "word": "enthalten",
+    "translation": "contain"
+  },
+  {
+    "key": 429,
+    "word": "Front",
+    "translation": "front"
+  },
+  {
+    "key": 430,
+    "word": "lehren",
+    "translation": "teach"
+  },
+  {
+    "key": 431,
+    "word": "Woche",
+    "translation": "week"
+  },
+  {
+    "key": 432,
+    "word": "Finale",
+    "translation": "final"
+  },
+  {
+    "key": 433,
+    "word": "gab",
+    "translation": "gave"
+  },
+  {
+    "key": 434,
+    "word": "grün",
+    "translation": "green"
+  },
+  {
+    "key": 435,
+    "word": "oh",
+    "translation": "oh"
+  },
+  {
+    "key": 436,
+    "word": "schnell",
+    "translation": "quick"
+  },
+  {
+    "key": 437,
+    "word": "entwickeln",
+    "translation": "develop"
+  },
+  {
+    "key": 438,
+    "word": "Ozean",
+    "translation": "ocean"
+  },
+  {
+    "key": 439,
+    "word": "warme",
+    "translation": "warm"
+  },
+  {
+    "key": 440,
+    "word": "kostenlos",
+    "translation": "free"
+  },
+  {
+    "key": 441,
+    "word": "Minute",
+    "translation": "minute"
+  },
+  {
+    "key": 442,
+    "word": "stark",
+    "translation": "strong"
+  },
+  {
+    "key": 443,
+    "word": "besondere",
+    "translation": "special"
+  },
+  {
+    "key": 444,
+    "word": "Geist",
+    "translation": "mind"
+  },
+  {
+    "key": 445,
+    "word": "hinter",
+    "translation": "behind"
+  },
+  {
+    "key": 446,
+    "word": "klar",
+    "translation": "clear"
+  },
+  {
+    "key": 447,
+    "word": "Schwanz",
+    "translation": "tail"
+  },
+  {
+    "key": 448,
+    "word": "produzieren",
+    "translation": "produce"
+  },
+  {
+    "key": 449,
+    "word": "Tatsache",
+    "translation": "fact"
+  },
+  {
+    "key": 450,
+    "word": "Raum",
+    "translation": "space"
+  },
+  {
+    "key": 451,
+    "word": "gehört",
+    "translation": "heard"
+  },
+  {
+    "key": 452,
+    "word": "beste",
+    "translation": "best"
+  },
+  {
+    "key": 453,
+    "word": "Stunde",
+    "translation": "hour"
+  },
+  {
+    "key": 454,
+    "word": "besser",
+    "translation": "better"
+  },
+  {
+    "key": 455,
+    "word": "wahr",
+    "translation": "TRUE"
+  },
+  {
+    "key": 456,
+    "word": "während",
+    "translation": "during"
+  },
+  {
+    "key": 457,
+    "word": "hundert",
+    "translation": "hundred"
+  },
+  {
+    "key": 458,
+    "word": "fünf",
+    "translation": "five"
+  },
+  {
+    "key": 459,
+    "word": "merken",
+    "translation": "remember"
+  },
+  {
+    "key": 460,
+    "word": "Schritt",
+    "translation": "step"
+  },
+  {
+    "key": 461,
+    "word": "früh",
+    "translation": "early"
+  },
+  {
+    "key": 462,
+    "word": "halten",
+    "translation": "hold"
+  },
+  {
+    "key": 463,
+    "word": "Westen",
+    "translation": "west"
+  },
+  {
+    "key": 464,
+    "word": "Boden",
+    "translation": "ground"
+  },
+  {
+    "key": 465,
+    "word": "Interesse",
+    "translation": "interest"
+  },
+  {
+    "key": 466,
+    "word": "erreichen",
+    "translation": "reach"
+  },
+  {
+    "key": 467,
+    "word": "schnell",
+    "translation": "fast"
+  },
+  {
+    "key": 468,
+    "word": "Verbum",
+    "translation": "verb"
+  },
+  {
+    "key": 469,
+    "word": "singen",
+    "translation": "sing"
+  },
+  {
+    "key": 470,
+    "word": "hören",
+    "translation": "listen"
+  },
+  {
+    "key": 471,
+    "word": "sechs",
+    "translation": "six"
+  },
+  {
+    "key": 472,
+    "word": "Tabelle",
+    "translation": "table"
+  },
+  {
+    "key": 473,
+    "word": "Reise",
+    "translation": "travel"
+  },
+  {
+    "key": 474,
+    "word": "weniger",
+    "translation": "less"
+  },
+  {
+    "key": 475,
+    "word": "Morgen",
+    "translation": "morning"
+  },
+  {
+    "key": 476,
+    "word": "zehn",
+    "translation": "ten"
+  },
+  {
+    "key": 477,
+    "word": "einfach",
+    "translation": "simple"
+  },
+  {
+    "key": 478,
+    "word": "mehrere",
+    "translation": "several"
+  },
+  {
+    "key": 479,
+    "word": "Vokal",
+    "translation": "vowel"
+  },
+  {
+    "key": 480,
+    "word": "auf",
+    "translation": "toward"
+  },
+  {
+    "key": 481,
+    "word": "Krieg",
+    "translation": "war"
+  },
+  {
+    "key": 482,
+    "word": "legen",
+    "translation": "lay"
+  },
+  {
+    "key": 483,
+    "word": "gegen",
+    "translation": "against"
+  },
+  {
+    "key": 484,
+    "word": "Muster",
+    "translation": "pattern"
+  },
+  {
+    "key": 485,
+    "word": "schleppend",
+    "translation": "slow"
+  },
+  {
+    "key": 486,
+    "word": "Zentrum",
+    "translation": "center"
+  },
+  {
+    "key": 487,
+    "word": "Liebe",
+    "translation": "love"
+  },
+  {
+    "key": 488,
+    "word": "Person",
+    "translation": "person"
+  },
+  {
+    "key": 489,
+    "word": "Geld",
+    "translation": "money"
+  },
+  {
+    "key": 490,
+    "word": "dienen",
+    "translation": "serve"
+  },
+  {
+    "key": 491,
+    "word": "erscheinen",
+    "translation": "appear"
+  },
+  {
+    "key": 492,
+    "word": "Straße",
+    "translation": "road"
+  },
+  {
+    "key": 493,
+    "word": "Karte",
+    "translation": "map"
+  },
+  {
+    "key": 494,
+    "word": "regen",
+    "translation": "rain"
+  },
+  {
+    "key": 495,
+    "word": "Regel",
+    "translation": "rule"
+  },
+  {
+    "key": 496,
+    "word": "regieren",
+    "translation": "govern"
+  },
+  {
+    "key": 497,
+    "word": "ziehen",
+    "translation": "pull"
+  },
+  {
+    "key": 498,
+    "word": "Kälte",
+    "translation": "cold"
+  },
+  {
+    "key": 499,
+    "word": "Hinweis",
+    "translation": "notice"
+  },
+  {
+    "key": 500,
+    "word": "Stimme",
+    "translation": "voice"
+  },
+  {
+    "key": 501,
+    "word": "Energie",
+    "translation": "energy"
+  },
+  {
+    "key": 502,
+    "word": "Jagd",
+    "translation": "hunt"
+  },
+  {
+    "key": 503,
+    "word": "wahrscheinlich",
+    "translation": "probable"
+  },
+  {
+    "key": 504,
+    "word": "Bett",
+    "translation": "bed"
+  },
+  {
+    "key": 505,
+    "word": "Bruder",
+    "translation": "brother"
+  },
+  {
+    "key": 506,
+    "word": "Ei",
+    "translation": "egg"
+  },
+  {
+    "key": 507,
+    "word": "Fahrt",
+    "translation": "ride"
+  },
+  {
+    "key": 508,
+    "word": "Zelle",
+    "translation": "cell"
+  },
+  {
+    "key": 509,
+    "word": "glauben",
+    "translation": "believe"
+  },
+  {
+    "key": 510,
+    "word": "vielleicht",
+    "translation": "perhaps"
+  },
+  {
+    "key": 511,
+    "word": "pflücken",
+    "translation": "pick"
+  },
+  {
+    "key": 512,
+    "word": "plötzlich",
+    "translation": "sudden"
+  },
+  {
+    "key": 513,
+    "word": "zählen",
+    "translation": "count"
+  },
+  {
+    "key": 514,
+    "word": "Platz",
+    "translation": "square"
+  },
+  {
+    "key": 515,
+    "word": "Grund",
+    "translation": "reason"
+  },
+  {
+    "key": 516,
+    "word": "Dauer",
+    "translation": "length"
+  },
+  {
+    "key": 517,
+    "word": "vertreten",
+    "translation": "represent"
+  },
+  {
+    "key": 518,
+    "word": "Kunst",
+    "translation": "art"
+  },
+  {
+    "key": 519,
+    "word": "Thema",
+    "translation": "subject"
+  },
+  {
+    "key": 520,
+    "word": "Region",
+    "translation": "region"
+  },
+  {
+    "key": 521,
+    "word": "Größe",
+    "translation": "size"
+  },
+  {
+    "key": 522,
+    "word": "variieren",
+    "translation": "vary"
+  },
+  {
+    "key": 523,
+    "word": "regeln",
+    "translation": "settle"
+  },
+  {
+    "key": 524,
+    "word": "sprechen",
+    "translation": "speak"
+  },
+  {
+    "key": 525,
+    "word": "Gewicht",
+    "translation": "weight"
+  },
+  {
+    "key": 526,
+    "word": "allgemein",
+    "translation": "general"
+  },
+  {
+    "key": 527,
+    "word": "Eis",
+    "translation": "ice"
+  },
+  {
+    "key": 528,
+    "word": "Materie",
+    "translation": "matter"
+  },
+  {
+    "key": 529,
+    "word": "Kreis",
+    "translation": "circle"
+  },
+  {
+    "key": 530,
+    "word": "Paar",
+    "translation": "pair"
+  },
+  {
+    "key": 531,
+    "word": "umfassen",
+    "translation": "include"
+  },
+  {
+    "key": 532,
+    "word": "Kluft",
+    "translation": "divide"
+  },
+  {
+    "key": 533,
+    "word": "Silbe",
+    "translation": "syllable"
+  },
+  {
+    "key": 534,
+    "word": "Filz",
+    "translation": "felt"
+  },
+  {
+    "key": 535,
+    "word": "groß",
+    "translation": "grand"
+  },
+  {
+    "key": 536,
+    "word": "Kugel",
+    "translation": "ball"
+  },
+  {
+    "key": 537,
+    "word": "noch",
+    "translation": "yet"
+  },
+  {
+    "key": 538,
+    "word": "Welle",
+    "translation": "wave"
+  },
+  {
+    "key": 539,
+    "word": "fallen",
+    "translation": "drop"
+  },
+  {
+    "key": 540,
+    "word": "Herz",
+    "translation": "heart"
+  },
+  {
+    "key": 541,
+    "word": "Uhr",
+    "translation": "am"
+  },
+  {
+    "key": 542,
+    "word": "vorhanden",
+    "translation": "present"
+  },
+  {
+    "key": 543,
+    "word": "schwer",
+    "translation": "heavy"
+  },
+  {
+    "key": 544,
+    "word": "Tanz",
+    "translation": "dance"
+  },
+  {
+    "key": 545,
+    "word": "Motor",
+    "translation": "engine"
+  },
+  {
+    "key": 546,
+    "word": "Position",
+    "translation": "position"
+  },
+  {
+    "key": 547,
+    "word": "Arm",
+    "translation": "arm"
+  },
+  {
+    "key": 548,
+    "word": "breit",
+    "translation": "wide"
+  },
+  {
+    "key": 549,
+    "word": "Segel",
+    "translation": "sail"
+  },
+  {
+    "key": 550,
+    "word": "Material",
+    "translation": "material"
+  },
+  {
+    "key": 551,
+    "word": "Fraktion",
+    "translation": "fraction"
+  },
+  {
+    "key": 552,
+    "word": "Wald",
+    "translation": "forest"
+  },
+  {
+    "key": 553,
+    "word": "sitzen",
+    "translation": "sit"
+  },
+  {
+    "key": 554,
+    "word": "Rennen",
+    "translation": "race"
+  },
+  {
+    "key": 555,
+    "word": "Fenster",
+    "translation": "window"
+  },
+  {
+    "key": 556,
+    "word": "Speicher",
+    "translation": "store"
+  },
+  {
+    "key": 557,
+    "word": "Sommer",
+    "translation": "summer"
+  },
+  {
+    "key": 558,
+    "word": "Zug",
+    "translation": "train"
+  },
+  {
+    "key": 559,
+    "word": "Schlaf",
+    "translation": "sleep"
+  },
+  {
+    "key": 560,
+    "word": "beweisen",
+    "translation": "prove"
+  },
+  {
+    "key": 561,
+    "word": "einsam",
+    "translation": "lone"
+  },
+  {
+    "key": 562,
+    "word": "Bein",
+    "translation": "leg"
+  },
+  {
+    "key": 563,
+    "word": "Übung",
+    "translation": "exercise"
+  },
+  {
+    "key": 564,
+    "word": "Wand",
+    "translation": "wall"
+  },
+  {
+    "key": 565,
+    "word": "Fang",
+    "translation": "catch"
+  },
+  {
+    "key": 566,
+    "word": "Berg",
+    "translation": "mount"
+  },
+  {
+    "key": 567,
+    "word": "wünschen",
+    "translation": "wish"
+  },
+  {
+    "key": 568,
+    "word": "Himmel",
+    "translation": "sky"
+  },
+  {
+    "key": 569,
+    "word": "Board",
+    "translation": "board"
+  },
+  {
+    "key": 570,
+    "word": "Freude",
+    "translation": "joy"
+  },
+  {
+    "key": 571,
+    "word": "Winter",
+    "translation": "winter"
+  },
+  {
+    "key": 572,
+    "word": "sa",
+    "translation": "sat"
+  },
+  {
+    "key": 573,
+    "word": "geschrieben",
+    "translation": "written"
+  },
+  {
+    "key": 574,
+    "word": "wilden",
+    "translation": "wild"
+  },
+  {
+    "key": 575,
+    "word": "Instrument",
+    "translation": "instrument"
+  },
+  {
+    "key": 576,
+    "word": "gehalten",
+    "translation": "kept"
+  },
+  {
+    "key": 577,
+    "word": "Glas",
+    "translation": "glass"
+  },
+  {
+    "key": 578,
+    "word": "Gras",
+    "translation": "grass"
+  },
+  {
+    "key": 579,
+    "word": "Kuh",
+    "translation": "cow"
+  },
+  {
+    "key": 580,
+    "word": "Arbeit",
+    "translation": "job"
+  },
+  {
+    "key": 581,
+    "word": "Rand",
+    "translation": "edge"
+  },
+  {
+    "key": 582,
+    "word": "Zeichen",
+    "translation": "sign"
+  },
+  {
+    "key": 583,
+    "word": "Besuch",
+    "translation": "visit"
+  },
+  {
+    "key": 584,
+    "word": "Vergangenheit",
+    "translation": "past"
+  },
+  {
+    "key": 585,
+    "word": "weich",
+    "translation": "soft"
+  },
+  {
+    "key": 586,
+    "word": "Spaß",
+    "translation": "fun"
+  },
+  {
+    "key": 587,
+    "word": "hell",
+    "translation": "bright"
+  },
+  {
+    "key": 588,
+    "word": "Gases",
+    "translation": "gas"
+  },
+  {
+    "key": 589,
+    "word": "Wetter",
+    "translation": "weather"
+  },
+  {
+    "key": 590,
+    "word": "Monat",
+    "translation": "month"
+  },
+  {
+    "key": 591,
+    "word": "Million",
+    "translation": "million"
+  },
+  {
+    "key": 592,
+    "word": "tragen",
+    "translation": "bear"
+  },
+  {
+    "key": 593,
+    "word": "Finish",
+    "translation": "finish"
+  },
+  {
+    "key": 594,
+    "word": "glücklich",
+    "translation": "happy"
+  },
+  {
+    "key": 595,
+    "word": "hoffen",
+    "translation": "hope"
+  },
+  {
+    "key": 596,
+    "word": "blume",
+    "translation": "flower"
+  },
+  {
+    "key": 597,
+    "word": "kleiden",
+    "translation": "clothe"
+  },
+  {
+    "key": 598,
+    "word": "seltsam",
+    "translation": "strange"
+  },
+  {
+    "key": 599,
+    "word": "Vorbei",
+    "translation": "gone"
+  },
+  {
+    "key": 600,
+    "word": "Handel",
+    "translation": "trade"
+  },
+  {
+    "key": 601,
+    "word": "Melodie",
+    "translation": "melody"
+  },
+  {
+    "key": 602,
+    "word": "Reise",
+    "translation": "trip"
+  },
+  {
+    "key": 603,
+    "word": "Büro",
+    "translation": "office"
+  },
+  {
+    "key": 604,
+    "word": "empfangen",
+    "translation": "receive"
+  },
+  {
+    "key": 605,
+    "word": "Reihe",
+    "translation": "row"
+  },
+  {
+    "key": 606,
+    "word": "Mund",
+    "translation": "mouth"
+  },
+  {
+    "key": 607,
+    "word": "genau",
+    "translation": "exact"
+  },
+  {
+    "key": 608,
+    "word": "Zeichen",
+    "translation": "symbol"
+  },
+  {
+    "key": 609,
+    "word": "sterben",
+    "translation": "die"
+  },
+  {
+    "key": 610,
+    "word": "am wenigsten",
+    "translation": "least"
+  },
+  {
+    "key": 611,
+    "word": "Ärger",
+    "translation": "trouble"
+  },
+  {
+    "key": 612,
+    "word": "Schrei",
+    "translation": "shout"
+  },
+  {
+    "key": 613,
+    "word": "außer",
+    "translation": "except"
+  },
+  {
+    "key": 614,
+    "word": "schrieb",
+    "translation": "wrote"
+  },
+  {
+    "key": 615,
+    "word": "Samen",
+    "translation": "seed"
+  },
+  {
+    "key": 616,
+    "word": "Ton",
+    "translation": "tone"
+  },
+  {
+    "key": 617,
+    "word": "beitreten",
+    "translation": "join"
+  },
+  {
+    "key": 618,
+    "word": "vorschlagen",
+    "translation": "suggest"
+  },
+  {
+    "key": 619,
+    "word": "sauber",
+    "translation": "clean"
+  },
+  {
+    "key": 620,
+    "word": "Pause",
+    "translation": "break"
+  },
+  {
+    "key": 621,
+    "word": "Dame",
+    "translation": "lady"
+  },
+  {
+    "key": 622,
+    "word": "Hof",
+    "translation": "yard"
+  },
+  {
+    "key": 623,
+    "word": "steigen",
+    "translation": "rise"
+  },
+  {
+    "key": 624,
+    "word": "schlecht",
+    "translation": "bad"
+  },
+  {
+    "key": 625,
+    "word": "Schlag",
+    "translation": "blow"
+  },
+  {
+    "key": 626,
+    "word": "Öl",
+    "translation": "oil"
+  },
+  {
+    "key": 627,
+    "word": "Blut",
+    "translation": "blood"
+  },
+  {
+    "key": 628,
+    "word": "berühren",
+    "translation": "touch"
+  },
+  {
+    "key": 629,
+    "word": "wuchs",
+    "translation": "grew"
+  },
+  {
+    "key": 630,
+    "word": "Cent",
+    "translation": "cent"
+  },
+  {
+    "key": 631,
+    "word": "mischen",
+    "translation": "mix"
+  },
+  {
+    "key": 632,
+    "word": "Mannschaft",
+    "translation": "team"
+  },
+  {
+    "key": 633,
+    "word": "Draht",
+    "translation": "wire"
+  },
+  {
+    "key": 634,
+    "word": "Kosten",
+    "translation": "cost"
+  },
+  {
+    "key": 635,
+    "word": "verloren",
+    "translation": "lost"
+  },
+  {
+    "key": 636,
+    "word": "braun",
+    "translation": "brown"
+  },
+  {
+    "key": 637,
+    "word": "tragen",
+    "translation": "wear"
+  },
+  {
+    "key": 638,
+    "word": "Garten",
+    "translation": "garden"
+  },
+  {
+    "key": 639,
+    "word": "gleich",
+    "translation": "equal"
+  },
+  {
+    "key": 640,
+    "word": "gesendet",
+    "translation": "sent"
+  },
+  {
+    "key": 641,
+    "word": "wählen",
+    "translation": "choose"
+  },
+  {
+    "key": 642,
+    "word": "fiel",
+    "translation": "fell"
+  },
+  {
+    "key": 643,
+    "word": "passen",
+    "translation": "fit"
+  },
+  {
+    "key": 644,
+    "word": "fließen",
+    "translation": "flow"
+  },
+  {
+    "key": 645,
+    "word": "Messe",
+    "translation": "fair"
+  },
+  {
+    "key": 646,
+    "word": "Bank",
+    "translation": "bank"
+  },
+  {
+    "key": 647,
+    "word": "sammeln",
+    "translation": "collect"
+  },
+  {
+    "key": 648,
+    "word": "sparen",
+    "translation": "save"
+  },
+  {
+    "key": 649,
+    "word": "Kontrolle",
+    "translation": "control"
+  },
+  {
+    "key": 650,
+    "word": "dezimal",
+    "translation": "decimal"
+  },
+  {
+    "key": 651,
+    "word": "Ohr",
+    "translation": "ear"
+  },
+  {
+    "key": 652,
+    "word": "sonst",
+    "translation": "else"
+  },
+  {
+    "key": 653,
+    "word": "ganz",
+    "translation": "quite"
+  },
+  {
+    "key": 654,
+    "word": "pleite",
+    "translation": "broke"
+  },
+  {
+    "key": 655,
+    "word": "Fall",
+    "translation": "case"
+  },
+  {
+    "key": 656,
+    "word": "Mitte",
+    "translation": "middle"
+  },
+  {
+    "key": 657,
+    "word": "töten",
+    "translation": "kill"
+  },
+  {
+    "key": 658,
+    "word": "Sohn",
+    "translation": "son"
+  },
+  {
+    "key": 659,
+    "word": "See",
+    "translation": "lake"
+  },
+  {
+    "key": 660,
+    "word": "Moment",
+    "translation": "moment"
+  },
+  {
+    "key": 661,
+    "word": "Maßstab",
+    "translation": "scale"
+  },
+  {
+    "key": 662,
+    "word": "laut",
+    "translation": "loud"
+  },
+  {
+    "key": 663,
+    "word": "Frühling",
+    "translation": "spring"
+  },
+  {
+    "key": 664,
+    "word": "beobachten",
+    "translation": "observe"
+  },
+  {
+    "key": 665,
+    "word": "Kind",
+    "translation": "child"
+  },
+  {
+    "key": 666,
+    "word": "gerade",
+    "translation": "straight"
+  },
+  {
+    "key": 667,
+    "word": "Konsonant",
+    "translation": "consonant"
+  },
+  {
+    "key": 668,
+    "word": "Nation",
+    "translation": "nation"
+  },
+  {
+    "key": 669,
+    "word": "Wörterbuch",
+    "translation": "dictionary"
+  },
+  {
+    "key": 670,
+    "word": "milch",
+    "translation": "milk"
+  },
+  {
+    "key": 671,
+    "word": "Geschwindigkeit",
+    "translation": "speed"
+  },
+  {
+    "key": 672,
+    "word": "Verfahren",
+    "translation": "method"
+  },
+  {
+    "key": 673,
+    "word": "Orgel",
+    "translation": "organ"
+  },
+  {
+    "key": 674,
+    "word": "zahlen",
+    "translation": "pay"
+  },
+  {
+    "key": 675,
+    "word": "Alter",
+    "translation": "age"
+  },
+  {
+    "key": 676,
+    "word": "Abschnitt",
+    "translation": "section"
+  },
+  {
+    "key": 677,
+    "word": "Kleid",
+    "translation": "dress"
+  },
+  {
+    "key": 678,
+    "word": "Wolke",
+    "translation": "cloud"
+  },
+  {
+    "key": 679,
+    "word": "Überraschung",
+    "translation": "surprise"
+  },
+  {
+    "key": 680,
+    "word": "ruhig",
+    "translation": "quiet"
+  },
+  {
+    "key": 681,
+    "word": "Stein",
+    "translation": "stone"
+  },
+  {
+    "key": 682,
+    "word": "winzig",
+    "translation": "tiny"
+  },
+  {
+    "key": 683,
+    "word": "Aufstieg",
+    "translation": "climb"
+  },
+  {
+    "key": 684,
+    "word": "kühlen",
+    "translation": "cool"
+  },
+  {
+    "key": 685,
+    "word": "Entwurf",
+    "translation": "design"
+  },
+  {
+    "key": 686,
+    "word": "arm",
+    "translation": "poor"
+  },
+  {
+    "key": 687,
+    "word": "Menge",
+    "translation": "lot"
+  },
+  {
+    "key": 688,
+    "word": "Versuch",
+    "translation": "experiment"
+  },
+  {
+    "key": 689,
+    "word": "Boden",
+    "translation": "bottom"
+  },
+  {
+    "key": 690,
+    "word": "Schlüssel",
+    "translation": "key"
+  },
+  {
+    "key": 691,
+    "word": "Eisen",
+    "translation": "iron"
+  },
+  {
+    "key": 692,
+    "word": "Einzel",
+    "translation": "single"
+  },
+  {
+    "key": 693,
+    "word": "Stick",
+    "translation": "stick"
+  },
+  {
+    "key": 694,
+    "word": "Wohnung",
+    "translation": "flat"
+  },
+  {
+    "key": 695,
+    "word": "zwanzig",
+    "translation": "twenty"
+  },
+  {
+    "key": 696,
+    "word": "Haut",
+    "translation": "skin"
+  },
+  {
+    "key": 697,
+    "word": "Lächeln",
+    "translation": "smile"
+  },
+  {
+    "key": 698,
+    "word": "Falte",
+    "translation": "crease"
+  },
+  {
+    "key": 699,
+    "word": "Loch",
+    "translation": "hole"
+  },
+  {
+    "key": 700,
+    "word": "springen",
+    "translation": "jump"
+  },
+  {
+    "key": 701,
+    "word": "Kind",
+    "translation": "baby"
+  },
+  {
+    "key": 702,
+    "word": "acht",
+    "translation": "eight"
+  },
+  {
+    "key": 703,
+    "word": "Dorf",
+    "translation": "village"
+  },
+  {
+    "key": 704,
+    "word": "treffen",
+    "translation": "meet"
+  },
+  {
+    "key": 705,
+    "word": "Wurzel",
+    "translation": "root"
+  },
+  {
+    "key": 706,
+    "word": "kaufen",
+    "translation": "buy"
+  },
+  {
+    "key": 707,
+    "word": "erhöhen",
+    "translation": "raise"
+  },
+  {
+    "key": 708,
+    "word": "lösen",
+    "translation": "solve"
+  },
+  {
+    "key": 709,
+    "word": "Metall",
+    "translation": "metal"
+  },
+  {
+    "key": 710,
+    "word": "ob",
+    "translation": "whether"
+  },
+  {
+    "key": 711,
+    "word": "drücken",
+    "translation": "push"
+  },
+  {
+    "key": 712,
+    "word": "sieben",
+    "translation": "seven"
+  },
+  {
+    "key": 713,
+    "word": "Absatz",
+    "translation": "paragraph"
+  },
+  {
+    "key": 714,
+    "word": "dritte",
+    "translation": "third"
+  },
+  {
+    "key": 715,
+    "word": "wird",
+    "translation": "shall"
+  },
+  {
+    "key": 716,
+    "word": "Hand",
+    "translation": "held"
+  },
+  {
+    "key": 717,
+    "word": "Haar",
+    "translation": "hair"
+  },
+  {
+    "key": 718,
+    "word": "beschreiben",
+    "translation": "describe"
+  },
+  {
+    "key": 719,
+    "word": "Koch",
+    "translation": "cook"
+  },
+  {
+    "key": 720,
+    "word": "Boden",
+    "translation": "floor"
+  },
+  {
+    "key": 721,
+    "word": "entweder",
+    "translation": "either"
+  },
+  {
+    "key": 722,
+    "word": "Ergebnis",
+    "translation": "result"
+  },
+  {
+    "key": 723,
+    "word": "brennen",
+    "translation": "burn"
+  },
+  {
+    "key": 724,
+    "word": "Hügel",
+    "translation": "hill"
+  },
+  {
+    "key": 725,
+    "word": "sicher",
+    "translation": "safe"
+  },
+  {
+    "key": 726,
+    "word": "Katze",
+    "translation": "cat"
+  },
+  {
+    "key": 727,
+    "word": "Jahrhundert",
+    "translation": "century"
+  },
+  {
+    "key": 728,
+    "word": "betrachten",
+    "translation": "consider"
+  },
+  {
+    "key": 729,
+    "word": "Typ",
+    "translation": "type"
+  },
+  {
+    "key": 730,
+    "word": "Gesetz",
+    "translation": "law"
+  },
+  {
+    "key": 731,
+    "word": "Bit",
+    "translation": "bit"
+  },
+  {
+    "key": 732,
+    "word": "Küste",
+    "translation": "coast"
+  },
+  {
+    "key": 733,
+    "word": "Kopie",
+    "translation": "copy"
+  },
+  {
+    "key": 734,
+    "word": "Ausdruck",
+    "translation": "phrase"
+  },
+  {
+    "key": 735,
+    "word": "still",
+    "translation": "silent"
+  },
+  {
+    "key": 736,
+    "word": "hoch",
+    "translation": "tall"
+  },
+  {
+    "key": 737,
+    "word": "Sand",
+    "translation": "sand"
+  },
+  {
+    "key": 738,
+    "word": "Boden",
+    "translation": "soil"
+  },
+  {
+    "key": 739,
+    "word": "Rolle",
+    "translation": "roll"
+  },
+  {
+    "key": 740,
+    "word": "Temperatur",
+    "translation": "temperature"
+  },
+  {
+    "key": 741,
+    "word": "Finger",
+    "translation": "finger"
+  },
+  {
+    "key": 742,
+    "word": "Industrie",
+    "translation": "industry"
+  },
+  {
+    "key": 743,
+    "word": "Wert",
+    "translation": "value"
+  },
+  {
+    "key": 744,
+    "word": "Kampf",
+    "translation": "fight"
+  },
+  {
+    "key": 745,
+    "word": "Lüge",
+    "translation": "lie"
+  },
+  {
+    "key": 746,
+    "word": "schlagen",
+    "translation": "beat"
+  },
+  {
+    "key": 747,
+    "word": "begeistern",
+    "translation": "excite"
+  },
+  {
+    "key": 748,
+    "word": "natürlich",
+    "translation": "natural"
+  },
+  {
+    "key": 749,
+    "word": "Blick",
+    "translation": "view"
+  },
+  {
+    "key": 750,
+    "word": "Sinn",
+    "translation": "sense"
+  },
+  {
+    "key": 751,
+    "word": "Hauptstadt",
+    "translation": "capital"
+  },
+  {
+    "key": 752,
+    "word": "wird nicht",
+    "translation": "won’t"
+  },
+  {
+    "key": 753,
+    "word": "Stuhl",
+    "translation": "chair"
+  },
+  {
+    "key": 754,
+    "word": "Achtung",
+    "translation": "danger"
+  },
+  {
+    "key": 755,
+    "word": "Obst",
+    "translation": "fruit"
+  },
+  {
+    "key": 756,
+    "word": "reich",
+    "translation": "rich"
+  },
+  {
+    "key": 757,
+    "word": "dick",
+    "translation": "thick"
+  },
+  {
+    "key": 758,
+    "word": "Soldat",
+    "translation": "soldier"
+  },
+  {
+    "key": 759,
+    "word": "Prozess",
+    "translation": "process"
+  },
+  {
+    "key": 760,
+    "word": "betreiben",
+    "translation": "operate"
+  },
+  {
+    "key": 761,
+    "word": "Praxis",
+    "translation": "practice"
+  },
+  {
+    "key": 762,
+    "word": "trennen",
+    "translation": "separate"
+  },
+  {
+    "key": 763,
+    "word": "schwierig",
+    "translation": "difficult"
+  },
+  {
+    "key": 764,
+    "word": "Arzt",
+    "translation": "doctor"
+  },
+  {
+    "key": 765,
+    "word": "Bitte",
+    "translation": "please"
+  },
+  {
+    "key": 766,
+    "word": "schützen",
+    "translation": "protect"
+  },
+  {
+    "key": 767,
+    "word": "Mittag",
+    "translation": "noon"
+  },
+  {
+    "key": 768,
+    "word": "Ernte",
+    "translation": "crop"
+  },
+  {
+    "key": 769,
+    "word": "modernen",
+    "translation": "modern"
+  },
+  {
+    "key": 770,
+    "word": "Elementes",
+    "translation": "element"
+  },
+  {
+    "key": 771,
+    "word": "treffen",
+    "translation": "hit"
+  },
+  {
+    "key": 772,
+    "word": "Schüler",
+    "translation": "student"
+  },
+  {
+    "key": 773,
+    "word": "Ecke",
+    "translation": "corner"
+  },
+  {
+    "key": 774,
+    "word": "Partei",
+    "translation": "party"
+  },
+  {
+    "key": 775,
+    "word": "Versorgung",
+    "translation": "supply"
+  },
+  {
+    "key": 776,
+    "word": "deren",
+    "translation": "whose"
+  },
+  {
+    "key": 777,
+    "word": "lokalisieren",
+    "translation": "locate"
+  },
+  {
+    "key": 778,
+    "word": "Rings",
+    "translation": "ring"
+  },
+  {
+    "key": 779,
+    "word": "Charakter",
+    "translation": "character"
+  },
+  {
+    "key": 780,
+    "word": "insekt",
+    "translation": "insect"
+  },
+  {
+    "key": 781,
+    "word": "gefangen",
+    "translation": "caught"
+  },
+  {
+    "key": 782,
+    "word": "Zeit",
+    "translation": "period"
+  },
+  {
+    "key": 783,
+    "word": "zeigen",
+    "translation": "indicate"
+  },
+  {
+    "key": 784,
+    "word": "Funk",
+    "translation": "radio"
+  },
+  {
+    "key": 785,
+    "word": "Speiche",
+    "translation": "spoke"
+  },
+  {
+    "key": 786,
+    "word": "Atom",
+    "translation": "atom"
+  },
+  {
+    "key": 787,
+    "word": "Mensch",
+    "translation": "human"
+  },
+  {
+    "key": 788,
+    "word": "Geschichte",
+    "translation": "history"
+  },
+  {
+    "key": 789,
+    "word": "Wirkung",
+    "translation": "effect"
+  },
+  {
+    "key": 790,
+    "word": "elektrisch",
+    "translation": "electric"
+  },
+  {
+    "key": 791,
+    "word": "erwarten",
+    "translation": "expect"
+  },
+  {
+    "key": 792,
+    "word": "Knochen",
+    "translation": "bone"
+  },
+  {
+    "key": 793,
+    "word": "Schiene",
+    "translation": "rail"
+  },
+  {
+    "key": 794,
+    "word": "vorstellen",
+    "translation": "imagine"
+  },
+  {
+    "key": 795,
+    "word": "bieten",
+    "translation": "provide"
+  },
+  {
+    "key": 796,
+    "word": "zustimmen",
+    "translation": "agree"
+  },
+  {
+    "key": 797,
+    "word": "so",
+    "translation": "thus"
+  },
+  {
+    "key": 798,
+    "word": "sanft",
+    "translation": "gentle"
+  },
+  {
+    "key": 799,
+    "word": "Frau",
+    "translation": "woman"
+  },
+  {
+    "key": 800,
+    "word": "Kapitän",
+    "translation": "captain"
+  },
+  {
+    "key": 801,
+    "word": "erraten",
+    "translation": "guess"
+  },
+  {
+    "key": 802,
+    "word": "erforderlich",
+    "translation": "necessary"
+  },
+  {
+    "key": 803,
+    "word": "scharf",
+    "translation": "sharp"
+  },
+  {
+    "key": 804,
+    "word": "Flügel",
+    "translation": "wing"
+  },
+  {
+    "key": 805,
+    "word": "schaffen",
+    "translation": "create"
+  },
+  {
+    "key": 806,
+    "word": "Nachbar",
+    "translation": "neighbor"
+  },
+  {
+    "key": 807,
+    "word": "Wasch",
+    "translation": "wash"
+  },
+  {
+    "key": 808,
+    "word": "Fledermaus",
+    "translation": "bat"
+  },
+  {
+    "key": 809,
+    "word": "eher",
+    "translation": "rather"
+  },
+  {
+    "key": 810,
+    "word": "Menge",
+    "translation": "crowd"
+  },
+  {
+    "key": 811,
+    "word": "mais",
+    "translation": "corn"
+  },
+  {
+    "key": 812,
+    "word": "vergleichen",
+    "translation": "compare"
+  },
+  {
+    "key": 813,
+    "word": "Gedicht",
+    "translation": "poem"
+  },
+  {
+    "key": 814,
+    "word": "Schnur",
+    "translation": "string"
+  },
+  {
+    "key": 815,
+    "word": "Glocke",
+    "translation": "bell"
+  },
+  {
+    "key": 816,
+    "word": "abhängen",
+    "translation": "depend"
+  },
+  {
+    "key": 817,
+    "word": "Fleisch",
+    "translation": "meat"
+  },
+  {
+    "key": 818,
+    "word": "einreiben",
+    "translation": "rub"
+  },
+  {
+    "key": 819,
+    "word": "Rohr",
+    "translation": "tube"
+  },
+  {
+    "key": 820,
+    "word": "berühmt",
+    "translation": "famous"
+  },
+  {
+    "key": 921,
+    "word": "Dollar",
+    "translation": "dollar"
+  },
+  {
+    "key": 822,
+    "word": "Strom",
+    "translation": "stream"
+  },
+  {
+    "key": 823,
+    "word": "Angst",
+    "translation": "fear"
+  },
+  {
+    "key": 284,
+    "word": "Blick",
+    "translation": "sight"
+  },
+  {
+    "key": 825,
+    "word": "dünn",
+    "translation": "thin"
+  },
+  {
+    "key": 826,
+    "word": "Dreieck",
+    "translation": "triangle"
+  },
+  {
+    "key": 827,
+    "word": "Erde",
+    "translation": "planet"
+  },
+  {
+    "key": 828,
+    "word": "Eile",
+    "translation": "hurry"
+  },
+  {
+    "key": 829,
+    "word": "Chef",
+    "translation": "chief"
+  },
+  {
+    "key": 830,
+    "word": "Kolonie",
+    "translation": "colony"
+  },
+  {
+    "key": 831,
+    "word": "Uhr",
+    "translation": "clock"
+  },
+  {
+    "key": 832,
+    "word": "Mine",
+    "translation": "mine"
+  },
+  {
+    "key": 833,
+    "word": "Krawatte",
+    "translation": "tie"
+  },
+  {
+    "key": 834,
+    "word": "eingeben",
+    "translation": "enter"
+  },
+  {
+    "key": 835,
+    "word": "Dur",
+    "translation": "major"
+  },
+  {
+    "key": 836,
+    "word": "frisch",
+    "translation": "fresh"
+  },
+  {
+    "key": 837,
+    "word": "Suche",
+    "translation": "search"
+  },
+  {
+    "key": 838,
+    "word": "senden",
+    "translation": "send"
+  },
+  {
+    "key": 839,
+    "word": "gelb",
+    "translation": "yellow"
+  },
+  {
+    "key": 840,
+    "word": "Pistole",
+    "translation": "gun"
+  },
+  {
+    "key": 841,
+    "word": "erlauben",
+    "translation": "allow"
+  },
+  {
+    "key": 842,
+    "word": "Druck",
+    "translation": "print"
+  },
+  {
+    "key": 843,
+    "word": "tot",
+    "translation": "dead"
+  },
+  {
+    "key": 844,
+    "word": "Stelle",
+    "translation": "spot"
+  },
+  {
+    "key": 845,
+    "word": "Wüste",
+    "translation": "desert"
+  },
+  {
+    "key": 846,
+    "word": "Anzug",
+    "translation": "suit"
+  },
+  {
+    "key": 847,
+    "word": "Strom",
+    "translation": "current"
+  },
+  {
+    "key": 848,
+    "word": "Aufzug",
+    "translation": "lift"
+  },
+  {
+    "key": 840,
+    "word": "stiegen",
+    "translation": "rose"
+  },
+  {
+    "key": 850,
+    "word": "ankommen",
+    "translation": "arrive"
+  },
+  {
+    "key": 851,
+    "word": "Stamm",
+    "translation": "master"
+  },
+  {
+    "key": 852,
+    "word": "Spur",
+    "translation": "track"
+  },
+  {
+    "key": 853,
+    "word": "Elternteil",
+    "translation": "parent"
+  },
+  {
+    "key": 854,
+    "word": "Ufer",
+    "translation": "shore"
+  },
+  {
+    "key": 855,
+    "word": "Teilung",
+    "translation": "division"
+  },
+  {
+    "key": 856,
+    "word": "Blatt",
+    "translation": "sheet"
+  },
+  {
+    "key": 857,
+    "word": "Substanz",
+    "translation": "substance"
+  },
+  {
+    "key": 858,
+    "word": "begünstigen",
+    "translation": "favor"
+  },
+  {
+    "key": 859,
+    "word": "verbinden",
+    "translation": "connect"
+  },
+  {
+    "key": 860,
+    "word": "nach",
+    "translation": "post"
+  },
+  {
+    "key": 861,
+    "word": "verbringen",
+    "translation": "spend"
+  },
+  {
+    "key": 862,
+    "word": "Akkord",
+    "translation": "chord"
+  },
+  {
+    "key": 863,
+    "word": "Fett",
+    "translation": "fat"
+  },
+  {
+    "key": 864,
+    "word": "froh",
+    "translation": "glad"
+  },
+  {
+    "key": 865,
+    "word": "Original",
+    "translation": "original"
+  },
+  {
+    "key": 866,
+    "word": "Aktie",
+    "translation": "share"
+  },
+  {
+    "key": 867,
+    "word": "Station",
+    "translation": "station"
+  },
+  {
+    "key": 868,
+    "word": "Papa",
+    "translation": "dad"
+  },
+  {
+    "key": 869,
+    "word": "Brot",
+    "translation": "bread"
+  },
+  {
+    "key": 870,
+    "word": "aufladen",
+    "translation": "charge"
+  },
+  {
+    "key": 871,
+    "word": "richtig",
+    "translation": "proper"
+  },
+  {
+    "key": 872,
+    "word": "Leiste",
+    "translation": "bar"
+  },
+  {
+    "key": 873,
+    "word": "Angebot",
+    "translation": "offer"
+  },
+  {
+    "key": 874,
+    "word": "Segment",
+    "translation": "segment"
+  },
+  {
+    "key": 875,
+    "word": "Sklave",
+    "translation": "slave"
+  },
+  {
+    "key": 876,
+    "word": "ente",
+    "translation": "duck"
+  },
+  {
+    "key": 877,
+    "word": "Augenblick",
+    "translation": "instant"
+  },
+  {
+    "key": 878,
+    "word": "Markt",
+    "translation": "market"
+  },
+  {
+    "key": 879,
+    "word": "Grad",
+    "translation": "degree"
+  },
+  {
+    "key": 880,
+    "word": "besiedeln",
+    "translation": "populate"
+  },
+  {
+    "key": 881,
+    "word": "küken",
+    "translation": "chick"
+  },
+  {
+    "key": 882,
+    "word": "liebe",
+    "translation": "dear"
+  },
+  {
+    "key": 883,
+    "word": "Feind",
+    "translation": "enemy"
+  },
+  {
+    "key": 884,
+    "word": "antworten",
+    "translation": "reply"
+  },
+  {
+    "key": 885,
+    "word": "Getränk",
+    "translation": "drink"
+  },
+  {
+    "key": 886,
+    "word": "auftreten",
+    "translation": "occur"
+  },
+  {
+    "key": 887,
+    "word": "Unterstützung",
+    "translation": "support"
+  },
+  {
+    "key": 888,
+    "word": "Rede",
+    "translation": "speech"
+  },
+  {
+    "key": 889,
+    "word": "Natur",
+    "translation": "nature"
+  },
+  {
+    "key": 890,
+    "word": "Angebot",
+    "translation": "range"
+  },
+  {
+    "key": 891,
+    "word": "Dampf",
+    "translation": "steam"
+  },
+  {
+    "key": 892,
+    "word": "Bewegung",
+    "translation": "motion"
+  },
+  {
+    "key": 893,
+    "word": "Weg",
+    "translation": "path"
+  },
+  {
+    "key": 894,
+    "word": "Flüssigkeit",
+    "translation": "liquid"
+  },
+  {
+    "key": 895,
+    "word": "protokollieren",
+    "translation": "log"
+  },
+  {
+    "key": 896,
+    "word": "gemeint",
+    "translation": "meant"
+  },
+  {
+    "key": 897,
+    "word": "Quotient",
+    "translation": "quotient"
+  },
+  {
+    "key": 898,
+    "word": "Gebiss",
+    "translation": "teeth"
+  },
+  {
+    "key": 899,
+    "word": "Schale",
+    "translation": "shell"
+  },
+  {
+    "key": 900,
+    "word": "Hals",
+    "translation": "neck"
+  },
+  {
+    "key": 901,
+    "word": "Sauerstoff",
+    "translation": "oxygen"
+  },
+  {
+    "key": 902,
+    "word": "Zucker",
+    "translation": "sugar"
+  },
+  {
+    "key": 903,
+    "word": "Tod",
+    "translation": "death"
+  },
+  {
+    "key": 904,
+    "word": "ziemlich",
+    "translation": "pretty"
+  },
+  {
+    "key": 905,
+    "word": "Geschicklichkeit",
+    "translation": "skill"
+  },
+  {
+    "key": 906,
+    "word": "Frauen",
+    "translation": "women"
+  },
+  {
+    "key": 907,
+    "word": "Saison",
+    "translation": "season"
+  },
+  {
+    "key": 908,
+    "word": "Lösung",
+    "translation": "solution"
+  },
+  {
+    "key": 909,
+    "word": "Magnet",
+    "translation": "magnet"
+  },
+  {
+    "key": 910,
+    "word": "Silber",
+    "translation": "silver"
+  },
+  {
+    "key": 911,
+    "word": "danken",
+    "translation": "thank"
+  },
+  {
+    "key": 912,
+    "word": "Zweig",
+    "translation": "branch"
+  },
+  {
+    "key": 913,
+    "word": "Spiel",
+    "translation": "match"
+  },
+  {
+    "key": 914,
+    "word": "Suffix",
+    "translation": "suffix"
+  },
+  {
+    "key": 915,
+    "word": "insbesondere",
+    "translation": "especially"
+  },
+  {
+    "key": 916,
+    "word": "Feige",
+    "translation": "fig"
+  },
+  {
+    "key": 917,
+    "word": "ängstlich",
+    "translation": "afraid"
+  },
+  {
+    "key": 918,
+    "word": "riesig",
+    "translation": "huge"
+  },
+  {
+    "key": 919,
+    "word": "Schwester",
+    "translation": "sister"
+  },
+  {
+    "key": 920,
+    "word": "Stahl",
+    "translation": "steel"
+  },
+  {
+    "key": 921,
+    "word": "diskutieren",
+    "translation": "discuss"
+  },
+  {
+    "key": 922,
+    "word": "vorwärts",
+    "translation": "forward"
+  },
+  {
+    "key": 923,
+    "word": "ähnlich",
+    "translation": "similar"
+  },
+  {
+    "key": 924,
+    "word": "führen",
+    "translation": "guide"
+  },
+  {
+    "key": 925,
+    "word": "Erfahrung",
+    "translation": "experience"
+  },
+  {
+    "key": 926,
+    "word": "Partitur",
+    "translation": "score"
+  },
+  {
+    "key": 927,
+    "word": "apfel",
+    "translation": "apple"
+  },
+  {
+    "key": 928,
+    "word": "gekauft",
+    "translation": "bought"
+  },
+  {
+    "key": 929,
+    "word": "geführt",
+    "translation": "led"
+  },
+  {
+    "key": 930,
+    "word": "Tonhöhe",
+    "translation": "pitch"
+  },
+  {
+    "key": 931,
+    "word": "Mantel",
+    "translation": "coat"
+  },
+  {
+    "key": 932,
+    "word": "Masse",
+    "translation": "mass"
+  },
+  {
+    "key": 933,
+    "word": "Karte",
+    "translation": "card"
+  },
+  {
+    "key": 934,
+    "word": "Band",
+    "translation": "band"
+  },
+  {
+    "key": 935,
+    "word": "Seil",
+    "translation": "rope"
+  },
+  {
+    "key": 936,
+    "word": "Rutsch",
+    "translation": "slip"
+  },
+  {
+    "key": 937,
+    "word": "gewinnen",
+    "translation": "win"
+  },
+  {
+    "key": 938,
+    "word": "träumen",
+    "translation": "dream"
+  },
+  {
+    "key": 939,
+    "word": "Abend",
+    "translation": "evening"
+  },
+  {
+    "key": 940,
+    "word": "Zustand",
+    "translation": "condition"
+  },
+  {
+    "key": 941,
+    "word": "Futtermittel",
+    "translation": "feed"
+  },
+  {
+    "key": 942,
+    "word": "Werkzeug",
+    "translation": "tool"
+  },
+  {
+    "key": 943,
+    "word": "gesamt",
+    "translation": "total"
+  },
+  {
+    "key": 944,
+    "word": "Basis",
+    "translation": "basic"
+  },
+  {
+    "key": 945,
+    "word": "Geruch",
+    "translation": "smell"
+  },
+  {
+    "key": 946,
+    "word": "Tal",
+    "translation": "valley"
+  },
+  {
+    "key": 947,
+    "word": "noch",
+    "translation": "nor"
+  },
+  {
+    "key": 948,
+    "word": "doppelt",
+    "translation": "double"
+  },
+  {
+    "key": 949,
+    "word": "Sitz",
+    "translation": "seat"
+  },
+  {
+    "key": 950,
+    "word": "fortsetzen",
+    "translation": "continue"
+  },
+  {
+    "key": 951,
+    "word": "Block",
+    "translation": "block"
+  },
+  {
+    "key": 952,
+    "word": "Tabelle",
+    "translation": "chart"
+  },
+  {
+    "key": 953,
+    "word": "Hut",
+    "translation": "hat"
+  },
+  {
+    "key": 954,
+    "word": "verkaufen",
+    "translation": "sell"
+  },
+  {
+    "key": 955,
+    "word": "Erfolg",
+    "translation": "success"
+  },
+  {
+    "key": 956,
+    "word": "Firma",
+    "translation": "company"
+  },
+  {
+    "key": 957,
+    "word": "subtrahieren",
+    "translation": "subtract"
+  },
+  {
+    "key": 958,
+    "word": "Veranstaltung",
+    "translation": "event"
+  },
+  {
+    "key": 959,
+    "word": "besondere",
+    "translation": "particular"
+  },
+  {
+    "key": 960,
+    "word": "viel",
+    "translation": "deal"
+  },
+  {
+    "key": 961,
+    "word": "schwimmen",
+    "translation": "swim"
+  },
+  {
+    "key": 962,
+    "word": "Begriff",
+    "translation": "term"
+  },
+  {
+    "key": 963,
+    "word": "Gegenteil",
+    "translation": "opposite"
+  },
+  {
+    "key": 964,
+    "word": "Frau",
+    "translation": "wife"
+  },
+  {
+    "key": 965,
+    "word": "Schuh",
+    "translation": "shoe"
+  },
+  {
+    "key": 966,
+    "word": "Schulter",
+    "translation": "shoulder"
+  },
+  {
+    "key": 967,
+    "word": "Verbreitung",
+    "translation": "spread"
+  },
+  {
+    "key": 968,
+    "word": "arrangieren",
+    "translation": "arrange"
+  },
+  {
+    "key": 969,
+    "word": "Lager",
+    "translation": "camp"
+  },
+  {
+    "key": 970,
+    "word": "erfinden",
+    "translation": "invent"
+  },
+  {
+    "key": 971,
+    "word": "Baumwolle",
+    "translation": "cotton"
+  },
+  {
+    "key": 972,
+    "word": "geboren",
+    "translation": "born"
+  },
+  {
+    "key": 973,
+    "word": "bestimmen",
+    "translation": "determine"
+  },
+  {
+    "key": 974,
+    "word": "Quart",
+    "translation": "quart"
+  },
+  {
+    "key": 975,
+    "word": "neun",
+    "translation": "nine"
+  },
+  {
+    "key": 976,
+    "word": "Lastwagen",
+    "translation": "truck"
+  },
+  {
+    "key": 977,
+    "word": "Lärm",
+    "translation": "noise"
+  },
+  {
+    "key": 978,
+    "word": "Ebene",
+    "translation": "level"
+  },
+  {
+    "key": 979,
+    "word": "Chance",
+    "translation": "chance"
+  },
+  {
+    "key": 980,
+    "word": "sammeln",
+    "translation": "gather"
+  },
+  {
+    "key": 981,
+    "word": "Geschäft",
+    "translation": "shop"
+  },
+  {
+    "key": 982,
+    "word": "Stretch",
+    "translation": "stretch"
+  },
+  {
+    "key": 983,
+    "word": "werfen",
+    "translation": "throw"
+  },
+  {
+    "key": 984,
+    "word": "Glanz",
+    "translation": "shine"
+  },
+  {
+    "key": 985,
+    "word": "Immobilien",
+    "translation": "property"
+  },
+  {
+    "key": 986,
+    "word": "Spalte",
+    "translation": "column"
+  },
+  {
+    "key": 987,
+    "word": "Molekül",
+    "translation": "molecule"
+  },
+  {
+    "key": 988,
+    "word": "wählen",
+    "translation": "select"
+  },
+  {
+    "key": 989,
+    "word": "falsch",
+    "translation": "wrong"
+  },
+  {
+    "key": 990,
+    "word": "grau",
+    "translation": "gray"
+  },
+  {
+    "key": 991,
+    "word": "Wiederholung",
+    "translation": "repeat"
+  },
+  {
+    "key": 992,
+    "word": "erfordern",
+    "translation": "require"
+  },
+  {
+    "key": 993,
+    "word": "breit",
+    "translation": "broad"
+  },
+  {
+    "key": 994,
+    "word": "vorbereiten",
+    "translation": "prepare"
+  },
+  {
+    "key": 995,
+    "word": "Salz",
+    "translation": "salt"
+  },
+  {
+    "key": 996,
+    "word": "Nase",
+    "translation": "nose"
+  },
+  {
+    "key": 997,
+    "word": "mehreren",
+    "translation": "plural"
+  },
+  {
+    "key": 998,
+    "word": "Zorn",
+    "translation": "anger"
+  },
+  {
+    "key": 999,
+    "word": "Anspruch",
+    "translation": "claim"
+  },
+  {
+    "key": 1000,
+    "word": "Kontinent",
+    "translation": "continent"
+  }
+]
