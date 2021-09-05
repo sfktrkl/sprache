@@ -48,7 +48,7 @@ export default function Vocabulary({ navigation }: NavigationTabScreenProps): JS
 
   return (
     <View style={GlobalStyles.container}>
-      <Text style={GlobalStyles.title}>Vocabulary{navigation.getParam('language')}</Text>
+      <Text style={GlobalStyles.title}>{language} Vocabulary</Text>
 
       <Modal visible={modalOpen} animationType='slide' style={styles.modal}>
         <View style={styles.modalContent}>
