@@ -19,7 +19,7 @@ export default function Vocabulary({ navigation }: NavigationTabScreenProps): JS
   const getWords = () => {
     if (database.length > 0) return database;
 
-    const newDatabase = getDatabase(language, database);
+    const newDatabase = getDatabase(language);
     setDatabase(newDatabase);
     return newDatabase;
   };
