@@ -4,6 +4,8 @@ import { NavigationTabScreenProps } from 'react-navigation-tabs';
 
 import LanguageButton from '../components/LanguageButton';
 
+import { GlobalStyles } from '../styles/Global';
+
 interface Language {
   key: string;
   language: string;
@@ -30,8 +32,8 @@ export default function Profile({ navigation }: NavigationTabScreenProps): JSX.E
   const imageSize = Dimensions.get('window').width * 0.3;
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.title}>Your profile</Text>
+    <View style={GlobalStyles.container}>
+      <Text style={GlobalStyles.title}>Your profile</Text>
       <Text style={styles.title2}>
         Name: <Text style={styles.information}>Name Surname</Text>
       </Text>
@@ -40,7 +42,7 @@ export default function Profile({ navigation }: NavigationTabScreenProps): JSX.E
         E-mail: <Text style={styles.information}>email@email.com</Text>
       </Text>
 
-      <Text style={styles.title}>Select a language</Text>
+      <Text style={GlobalStyles.title}>Select a language</Text>
       <FlatList
         numColumns={2}
         keyExtractor={(item) => item.key}
@@ -64,17 +66,6 @@ export default function Profile({ navigation }: NavigationTabScreenProps): JSX.E
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    marginTop: 25,
-    paddingHorizontal: 25,
-  },
-  title: {
-    textAlign: 'center',
-    color: 'green',
-    fontSize: 24,
-    padding: 10,
-  },
   title2: {
     color: 'blue',
     fontSize: 16,
