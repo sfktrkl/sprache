@@ -5,6 +5,7 @@ import { NavigationTabScreenProps } from 'react-navigation-tabs';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import Card from '../components/Card';
 
+import { GlobalStyles } from '../styles/Global';
 import { Word, WordItem, getDatabase } from '../utils/Database';
 
 export default function Vocabulary({ navigation }: NavigationTabScreenProps): JSX.Element {
@@ -46,8 +47,8 @@ export default function Vocabulary({ navigation }: NavigationTabScreenProps): JS
   };
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.title}>Vocabulary{navigation.getParam('language')}</Text>
+    <View style={GlobalStyles.container}>
+      <Text style={GlobalStyles.title}>Vocabulary{navigation.getParam('language')}</Text>
 
       <Modal visible={modalOpen} animationType='slide' style={styles.modal}>
         <View style={styles.modalContent}>
@@ -86,17 +87,6 @@ export default function Vocabulary({ navigation }: NavigationTabScreenProps): JS
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    marginTop: 25,
-    paddingHorizontal: 25,
-  },
-  title: {
-    textAlign: 'center',
-    color: 'green',
-    fontSize: 24,
-    padding: 10,
-  },
   modal: {
     justifyContent: 'center',
     alignItems: 'center',
