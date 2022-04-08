@@ -18,7 +18,7 @@ jobs:
         run: npm install && npm run test:ci
       
       - name: Archive code coverage results
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: code-coverage-report
           path: coverage
@@ -47,7 +47,7 @@ jobs:
           cross-env EXPO_ANDROID_KEYSTORE_PASSWORD=${{ env.EXPO_ANDROID_KEYSTORE_PASSWORD }} EXPO_ANDROID_KEY_PASSWORD=${{ env.EXPO_ANDROID_KEY_PASSWORD }} turtle build:android --keystore-path ./keystore.jks --keystore-alias ${{ env.EXPO_ANDROID_KEYSTORE_ALIAS }} --type apk -o ./sprache.apk
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: asset
           path: sprache.apk
